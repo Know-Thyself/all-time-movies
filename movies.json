@@ -1,702 +1,702 @@
 [
-    {
-        "id": 1,
-        "title": "2001: A Space Odyssey (1968)",
-        "image": "https://media.timeout.com/images/105455969/750/562/image.jpg",
-        "rank": 1,
-        "summary": "The greatest film ever made began with the meeting of two brilliant minds: Stanley Kubrick and sci-fi seer Arthur C Clarke. \u2018I understand he\u2019s a nut who lives in a tree in India somewhere,\u2019 noted Kubrick when Clarke\u2019s name came up \u2013 along with those of Isaac Asimov, Robert A Heinlein and Ray Bradbury \u2013 as a possible writer for his planned sci-fi epic. Clarke was actually living in Ceylon (not in India, or a tree), but the pair met, hit it off, and forged a story of technological progress and disaster (hello, HAL) that\u2019s steeped in humanity, in all its brilliance, weakness, courage and mad ambition. An audience of stoners, wowed by its eye-candy Star Gate sequence and pioneering visuals, adopted it as a pet movie. Were it not for them, 2001 might have faded into obscurity, but it\u2019s hard to imagine it would have stayed there. Kubrick\u2019s frighteningly clinical vision of the future \u2013 AI and all \u2013 still feels prophetic, more than 50 years on.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 2,
-        "title": "The Godfather (1972)",
-        "image": "https://media.timeout.com/images/105455970/750/562/image.jpg",
-        "rank": 2,
-        "summary": "From the wise guys of Goodfellas to The Sopranos, all crime dynasties that came after The Godfather are descendants of the Corleones: Francis Ford Coppola\u2019s magnum opus is the ultimate patriarch of the Mafia genre. A monumental opening line (\u201cI believe in America\u201d) sets the operatic Mario Puzo adaptation in motion, before Coppola\u2019s epic morphs into a chilling dismantling of the American dream. The corruption-soaked story follows a powerful immigrant family grappling with the paradoxical values of reign and religion; those moral contradictions are crystallized in a legendary baptism sequence, superbly edited in parallel to the murdering of four rivaling dons. With countless iconic details\u2014a horse\u2019s severed head, Marlon Brando\u2019s wheezy voice, Nino Rota\u2019s catchy waltz\u2014The Godfather\u2019s authority lives on.\u2014Tomris Laffly"
-    },
-    {
-        "id": 3,
-        "title": "Citizen Kane (1941)",
-        "image": "https://media.timeout.com/images/105455971/750/562/image.jpg",
-        "rank": 3,
-        "summary": "Back in the headlines thanks to David Fincher\u2019s brilliantly acerbic making-of drama Mank, Citizen Kane always finds a way to renew itself for a new generation of film lovers. For newbies, the journey of its bulldozer of a protagonist \u2013 played with inexhaustible force by actor-director-wunderkind Orson Welles \u2013 from unloved child to thrusting entrepreneur to press baron to populist feels entirely au courant (in unconnected news, Donald Trump came out as a superfan). You can bathe in the film\u2019s groundbreaking techniques, like Gregg Toland\u2019s deep-focus photography, or the limitless self-confidence of its staging and its investigation of American capitalism. But it\u2019s also just a damn good story that you definitely don\u2019t need to be a hardened cineaste to enjoy.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 4,
-        "title": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles (1975)",
-        "image": "https://media.timeout.com/images/105455972/750/562/image.jpg",
-        "rank": 4,
-        "summary": "Long considered a feminist masterpiece, Chantal Akerman\u2019s quietly ruinous portrait of a widow\u2019s daily routine\u2014her chores slowly yielding to a sense of pent-up frustration\u2014should take its rightful place on any all-time list. This is not merely a niche film, but a window onto a universal condition, depicted in a concentrated structuralist style. More hypnotic than you may realize, Akerman\u2019s uninterrupted takes turn the simple acts of dredging veal or cleaning the bathtub into subtle critiques of moviemaking itself. (Pointedly, we never see the sex work Jeanne schedules in her bedroom to make ends meet.) Lulling us into her routine, Akerman and actor Delphine Seyrig create an extraordinary sense of sympathy rarely matched by other movies. Jeanne Dielman represents a total commitment to a woman\u2019s life, hour by hour, minute by minute. And it even has a twist ending.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 5,
-        "title": "Raiders of the Lost Ark (1981)",
-        "image": "https://media.timeout.com/images/105455973/750/562/image.jpg",
-        "rank": 5,
-        "summary": "Starting with a dissolve from the Paramount logo and ending in a warehouse inspired by Citizen Kane, Raiders of the Lost Ark celebrates what movies can do more joyously than any other film. Intricately designed as a tribute to the craft, Steven Spielberg\u2019s funnest blockbuster has it all: rolling boulders, a barroom brawl, a sparky heroine (Karen Allen) who can hold her liquor and lose her temper, a treacherous monkey, a champagne-drinking villain (Paul Freeman), snakes (\u201cWhy did it have to be snakes?\u201d), cinema\u2019s greatest truck chase and a barnstorming supernatural finale where heads explode. And it\u2019s all topped off by Harrison Ford\u2019s pitch-perfect Indiana Jones, a model of reluctant but resourceful heroism (look at his face when he shoots that swordsman). In short, it\u2019s cinematic perfection.\u2014Ian Freer"
-    },
-    {
-        "id": 6,
-        "title": "La Dolce Vita (1960)",
-        "image": "https://media.timeout.com/images/105456105/750/562/image.jpg",
-        "rank": 6,
-        "summary": "Made in the middle of Italy\u2019s boom years, Federico Fellini\u2019s runaway box-office hit came to define heated glamour and celebrity culture for the entire planet. It also made Marcello Mastroianni a star; here, he plays a gossip journalist caught up in the frenzied, freewheeling world of Roman nightlife. Ironically, the movie\u2019s portrayal of this milieu as vapid and soul-corrodingly hedonistic appears to have passed many viewers by. Perhaps that\u2019s because Fellini films everything with so much cinematic verve and wit that it\u2019s often hard not to get caught up in the delirious happenings onscreen. So much of how we view fame still dates back to this film; it even gave us the word paparazzi.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 7,
-        "title": "Seven Samurai (1954)",
-        "image": "https://media.timeout.com/images/101714537/750/562/image.jpg",
-        "rank": 7,
-        "summary": "It\u2019s the easiest 207 minutes of cinema you\u2019ll ever sit through. On the simplest of frameworks\u2014a poor farming community pools its resources to hire samurai to protect them from the brutal bandits who steal its harvest\u2014Akira Kurosawa mounts a finely drawn epic, by turns absorbing, funny and exciting. Of course the action sequences stir the blood\u2014the final showdown in the rain is unforgettable\u2014but this is really a study in human strengths and foibles. Toshiro Mifune is superb as the half-crazed self-styled samurai, but it\u2019s Takashi Shimura\u2019s Yoda-like leader who gives the film its emotional center. Since replayed in the Wild West (The Magnificent Seven), in space (Battle Beyond the Stars) and even with animated insects (A Bug\u2019s Life), the original still reigns supreme.\u2014Ian Freer"
-    },
-    {
-        "id": 8,
-        "title": "In the Mood for Love (2000)",
-        "image": "https://media.timeout.com/images/105455977/750/562/image.jpg",
-        "rank": 8,
-        "summary": "Can a film really be an instant classic? Anyone who watched In The Mood for Love when it was released in 2000 may have said yes. The second this love story opens, you sense you are in the hands of a master. Wong Kar-wai guides us through the narrow streets and stairs of \u201960s Hong Kong and into the lives of two neighbors (Maggie Cheung and Tony Leung) who discover their spouses are having an affair. As they imagine\u2014and partly reenact\u2014how their partners might be behaving, they fall for each other while remaining determined to respect their wedding vows. Loaded with longing, the film benefits from no less than three cinematographers, who together create an intense sense of intimacy, while the faultless performances shiver with sexual tension. This is cinema.\u2014Anna Smith"
-    },
-    {
-        "id": 9,
-        "title": "There Will Be Blood (2007)",
-        "image": "https://media.timeout.com/images/105455978/750/562/image.jpg",
-        "rank": 9,
-        "summary": "On the road to becoming the most significant filmmaker of the last 20 years, Paul Thomas Anderson transformed from a Scorsesian chronicler of debauched L.A. life into a hard-nosed investigator of the American confidence man. The pivotal point was There Will Be Blood, an epic about a certain kind of hustler\u2014the oil baron and prospector. Daniel Plainview is, in the final analysis, an ultra-scary Daniel Day-Lewis who will drink your milkshake. Scored by Radiohead\u2019s Jonny Greenwood (himself emerging as a major composer), Anderson\u2019s mournful epic is the true heir to Chinatown\u2019s bone-deep cynicism. As Phantom Thread makes clear, Anderson hasn\u2019t lost his sense of humor, not by a long shot. But there once was a moment when he needed to get serious, and this is it.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 10,
-        "title": "Singin\u2019 in the Rain (1952)",
-        "image": "https://media.timeout.com/images/105455980/750/562/image.jpg",
-        "rank": 10,
-        "summary": "\nForget The Artist\u2014sorry Uggie\u2014and relish instead the sheer, serotonin-enhancing verve of MGM\u2019s glorious epitaph to cinema\u2019s silent era. Its trio of dancers\u2014rubber-faced (and heeled) Donald O\u2019Connor, sparkling newcomer Debbie Reynolds and co-director and headline act Gene Kelly\u2014are a triple threat, nailing the stellar songs, intricate and physically demanding dance routines and selling all the comic beats with consummate skill. But kudos also belongs to Betty Comden and Adolph Green, whose effervescent screenplay provides the beat for the spectacle to move to, and Jessica Hagen, whose often-overlooked turn as croaky silent star Lina Lamont is the movie\u2019s funny-sad counterpoint. Not forgetting co-director Stanley Donen, who was always happy to let his stars take the credit but deserves an equal share for a musical that never puts a foot wrong.\u2013Phil de Semlyen"
-    },
-    {
-        "id": 11,
-        "title": "Goodfellas (1990)",
-        "image": "https://media.timeout.com/images/105536435/750/562/image.jpg",
-        "rank": 11,
-        "summary": "\u2018As far back as I can remember, I always wanted to be a gangster.\u2019 Ray Liotta\u2019s opening line is the crime movie equivalent of \u2018Once upon a time\u2026\u2019, and what follows is Martin Scorsese\u2019s version of a fairy tale \u2013 the story of a starry-eyed Brooklyn kid who realises his boyhood dream and still comes out a schnook in the end. Based on the true life of mobster Henry Hill, Goodfellas was born in the shadow of The Godfather, but as the years go on, the question of which is more influential becomes mostly a matter of generation. Certainly, the former is more easily rewatchable, owing to its breakneck pacing \u2013 its two and a half hours (and three decades) just whiz by. And for a movie about violent career criminals, it\u2019s also strangely relatable. Where Coppola went inside the walls of organised crime\u2019s one percent, Scorsese\u2019s gangsters are more blue collar. And as it turns out, working for the mafia isn\u2019t much different than any other job - you spend 30 years busting your hump to climb the ladder, only to end up face down on a bloody carpet in some tacky house in the burbs. \u2014 Matthew Singer\u00a0"
-    },
-    {
-        "id": 12,
-        "title": "North by Northwest (1959)",
-        "image": "https://media.timeout.com/images/102240155/750/562/image.jpg",
-        "rank": 12,
-        "summary": "There\u2019s no other thriller as elegant, light-touched and sexy as Hitchcock\u2019s silken caper. Cary Grant\u2019s suavely hollow adman Roger O. Thornhill (\u201cWhat does the O. stand for?\u201d \u201cNothing.\u201d) is Don Draper with a sense of humor, which he sorely needs when he contracts a bad case of Wrong Man\u2013itis. The set pieces, the villains, Eva Marie Saint\u2019s femme fatale, Saul Bass\u2019s credits, Bernard Herrmann\u2019s musical cues\u2014somehow the film manages to be even more than the sum of its glorious parts. Oh, and somewhere in there, Thornhill even manages to find his soul.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 13,
-        "title": "Mulholland Drive (2001)",
-        "image": "https://media.timeout.com/images/105455983/750/562/image.jpg",
-        "rank": 13,
-        "summary": "Not many movies are known equally for a genuinely erotic lesbian sex scene and a heart-stopping jump scare involving some kind of terrifying trash witch. Then again, this is David Lynch we\u2019re talking about: the man\u2019s entire career is dedicated to doing things most other filmmakers wouldn\u2019t even consider. But Mulholland Drive is where the phrase \u2018Lynchian\u2019 earned its definition. What appears, at first, to be a relatively straightforward noir about a gorgeous amnesiac (Laura Harring) trying to piece together the mystery of her own identity plunges, in its third act, into a hallucinatory dream world, effectively undoing everything that came before. The hairpin turn frustrated some critics, who apparently anticipated a movie that would explain itself in the end. Fans knew better \u2013 and for those willing to accept the movie as an experience, rather than a riddle to be solved, it\u2019s a gift that reveals new pleasures (and nightmares) with each viewing. \u2014Matthew Singer"
-    },
-    {
-        "id": 14,
-        "title": "Bicycle Thieves (1948)",
-        "image": "https://media.timeout.com/images/103262825/750/562/image.jpg",
-        "rank": 14,
-        "summary": "Vittorio de Sica\u2019s Neorealist masterpiece is set in a world where owning a bicycle is the key to working, but it could just as easily be set in one where the absence of car, or affordable childcare, or a home, or a social security number are insurmountable barriers in the constant slog to put food on the table. That\u2019s what makes simultaneously it a film for postwar Italy and modern-day anywhere-at-all. That\u2019s what makes it such a powerful, enduring landmark in humanist cinema. You can feel it in virtually every social drama you care to mention, from Ken Loach to Kelly Reichardt.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 15,
-        "title": "The Dark Knight (2008)",
-        "image": "https://media.timeout.com/images/105455985/750/562/image.jpg",
-        "rank": 15,
-        "summary": "There\u2019s a new Batman in Gotham, in the shadowy form of Matt Reeves\u2019s The Batman \u2013 and this is the bar it has to clear. The middle entry in Christopher Nolan\u2019s Bat-trilogy is an almost flawless case study of how to do a sophisticated superhero epic for modern audiences \u2013 and\u00a0the \u2018almost\u2019 is only because the final act refreshingly tries to cram in almost too many ideas, much moral arithmetic. Heath Ledger\u2019s Joker, meanwhile, redefines big-screen villainy: It\u2019s not enough to be sinister,\u00a0you\u00a0need a party trick now too.\u2014Phil de Semlyen\u00a0"
-    },
-    {
-        "id": 16,
-        "title": "City Lights (1931)",
-        "image": "https://media.timeout.com/images/104103046/750/562/image.jpg",
-        "rank": 16,
-        "summary": "Charlie Chaplin\u2019s total vision remains awe-inspiring: He wrote, directed, produced, edited and starred in his own movies, which he also scored with an orchestra. And when those cameras were rolling, they captured a self-made icon with a global audience. Still, City Lights was something else. Chaplin,\u00a0reluctant to give up the visual techniques he\u2019d mastered, insisted on making his new comedy a silent film even as viewers were growing thirsty for sound. As ever, the star had the last laugh: Not only was the film a huge commercial success, it also ended on the most heartbreaking close-up in cinema history\u2014the peak of the reaction shot (since cribbed by movies from La Strada to The Purple Rose of Cairo), no dialogue required.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 17,
-        "title": "Grand Illusion (1937)",
-        "image": "https://media.timeout.com/images/105455987/750/562/image.jpg",
-        "rank": 17,
-        "summary": "There\u2019s never a bad time to revisit one of Jean Renoir\u2019s great masterpieces (along with The Rules of the Game), but this current era of populists, nationalists and shouty rabble-rousers feels like a particularly good one. Set in a German POW camp during WWI, the film lays bare the fault lines of class and nationality among a group of French prisoners and their German captors and comes to the conclusion that all that really matters is man\u2019s nobility toward his fellow man.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 18,
-        "title": "His Girl Friday (1940)",
-        "image": "https://media.timeout.com/images/100385899/750/562/image.jpg",
-        "rank": 18,
-        "summary": "Calling this one the peak of screwball comedy may be too limiting: Among the many topflight movies directed by journeyman filmmaker Howard Hawks, His Girl Friday is his most romantic and most verbose (the constant banter feels like foreplay). Though the laconic Hawks would downplay his own proto-feminism throughout his life, the film is also his most liberated; strong women who had jobs and ran with newshounds were simply what he wanted to see. Most wonderfully, this comedy best celebrates the rule of wit: He\u2014or, more often, she\u2014with the sharpest tongue wins. If you love words, you\u2019ll love this movie.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 19,
-        "title": "The Red Shoes (1948)",
-        "image": "https://media.timeout.com/images/105455989/750/562/image.jpg",
-        "rank": 19,
-        "summary": "You could stick nearly every Powell and Pressburger film on this list; such was the dynamic duo\u2019s stellar output. But for our money\u2014and that of superfan Martin Scorsese\u2014this dazzling ballet-set romance is first among equals. It's a perfect expression of artists\u2019 drive to create, set in a lush Technicolor world shot by the great Jack Cardiff. Scorsese describes it as \u201cthe movie that plays in my heart.\u201d We\u2019ll take two seats at the back.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 20,
-        "title": "Vertigo (1958)",
-        "image": "https://media.timeout.com/images/105455990/750/562/image.jpg",
-        "rank": 20,
-        "summary": "A sexy Freudian mind-bender that\u2019s often considered Alfred Hitchcock\u2019s finest triumph, Vertigo is pitched in a world of existential obsession and cunning doubles. Shape-shifting her way through Edith Head\u2019s transformational costumes, Kim Novak haunts in two roles: Madeleine Elster and Judy Barton, both objects of desire for James Stewart\u2019s curious ex-cop. Completing this vivid psychodrama is Bernard Herrmann\u2019s alarmingly duplicitous score, which twists its way to a towering finale.\u2014Tomris Laffly"
-    },
-    {
-        "id": 21,
-        "title": "Beau Travail (1999)",
-        "image": "https://media.timeout.com/images/105455991/750/562/image.jpg",
-        "rank": 21,
-        "summary": "Increasingly a giant of world cinema, France\u2019s Claire Denis continues to confound expectations, making movies in sync with her own offbeat rhythms and thematic preoccupations (colonialism, power, repressed attraction). This one, her celebrated breakout, is something of a spin on Herman Melville\u2019s Billy Budd\u2014but that\u2019s like calling Jaws something of a spin on Moby-Dick. The genius is in Denis\u2019s technique, manifesting itself in images of shattering emotional precision: sinewy silhouettes of soldiers, abstract tests of will in the desert and, most ravishingly, the euphoria of breaking into dance, courtesy of a loose-limbed Denis Lavant and Corona\u2019s \u2018Rhythm of the Night\u2019.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 22,
-        "title": "The Searchers (1956)",
-        "image": "https://media.timeout.com/images/105455992/750/562/image.jpg",
-        "rank": 22,
-        "summary": "Showing some personal growth as well as filmmaking craft, John Ford makes some amends for his appearance in DW Griffith\u2019s virulently racist The Birth of a Nation with this landmark western. It\u2019s a story of hatred slowing giving way to compassion that strips away the toxic myths of the old frontier via the swaggering but broken-down figure of Ethan Edwards (John Wayne). Edwards is no white-hatted Shane type, but an embittered war veteran who hunts his own niece (Natalie Wood) with the intention of killing her for the crime of have been assimilated with the Comanche. The shot of Edwards framed in that doorway is one of the most famous \u2013 and most mimicked \u2013 in cinema.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 23,
-        "title": "Persona (1966)",
-        "image": "https://media.timeout.com/images/105455993/750/562/image.jpg",
-        "rank": 23,
-        "summary": "Ingmar Bergman\u2019s psychologically raw output has the potency to turn mere film fans into raging addicts; Persona is the hard stuff, a double-sided psychodrama that somehow feels like it was shot last weekend with two of Ingy\u2019s coolest friends (Bibi Andersson and Liv Ullmann, both revelatory). For its intimacy and economy alone, the film feels like a preview of the scrappy decade to come. Bergman, recovering from a serious bout of pneumonia, wrote the script in the hospital, grappling with a crisis of purpose that he turned into art of the highest caliber.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 24,
-        "title": "Do the Right Thing (1989)",
-        "image": "https://media.timeout.com/images/105455994/750/562/image.jpg",
-        "rank": 24,
-        "summary": "Spike Lee\u2019s bitterly funny, ultimately tragic fresco of a Brooklyn neighborhood during one sweltering summer day was hugely controversial at the time: Critics dinged Lee for his depiction of an uprising in the wake of a police killing. The movie has lost none of its relevance or power; if anything, it\u2019s gained some. But the filmmaking is what makes this a classic, particularly the energy, wit and style with which Lee presents this microcosm and the social forces at play inside it.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 25,
-        "title": "Rashomon (1950)",
-        "image": "https://media.timeout.com/images/105455995/750/562/image.jpg",
-        "rank": 25,
-        "summary": "It\u2019s no exaggeration to say that Akira Kurosawa\u2019s Rashomon redefined cinematic storytelling. With its shifting, unreliable narrative structure\u2014in which four people give differing accounts of a murder\u2014the film is remarkably daring and serves as a reminder of how form itself can beguile us. Flashbacks have never been so thrillingly deployed; nearly 70 years after its release, filmmakers are still trying to catch up to its achievements.\u2014Abbey Bender"
-    },
-    {
-        "id": 26,
-        "title": "The Rules of the Game (1939)",
-        "image": "https://media.timeout.com/images/105455996/750/562/image.jpg",
-        "rank": 26,
-        "summary": "Jean Renoir cemented his virtuosity with this pitch-perfect study of social-strata eruptions among the ditzy, idle rich, about to be blown sideways by WWII. Affairs among aristocrats and servants alike bloom during a weeklong hunting trip at a country manor, where the only crime is to trade frivolity with sincerity. Renoir captures his sparklingly astute ensemble cast with fluid, deep-focus camera movements, innovations that inspired directors from Orson Welles to Robert Altman.\u2014Stephen Garrett"
-    },
-    {
-        "id": 27,
-        "title": "Jaws (1975)",
-        "image": "https://media.timeout.com/images/105455997/750/562/image.jpg",
-        "rank": 27,
-        "summary": "Steven Spielberg\u2019s immortal blockbuster doesn\u2019t need political prescience to stay relevant: it\u2019s a movie about a big-ass shark eating people. Thanks in large part to the film itself, that\u2019s one irrational fear the public is never letting go of. Over the last two years, though, whenever some elected official has argued against mask mandates and\u00a0said it\u2019s time to reopen schools, it\u2019s been hard not to think about Mayor Vaughn in his goofy anchor-print suit telling the citizens of Amity Island that it\u2019s safe to go back in the water. And that element \u2013 along with the masterful pacing, the get-you-every-time jump scares and that banger of a third act \u2013 is what really makes Jaws forever frightening: sharks are scary, but greed and incompetence are far more likely to get you. \u2014\u00a0Matthew Singer \u00a0"
-    },
-    {
-        "id": 28,
-        "title": "Double Indemnity (1944)",
-        "image": "https://media.timeout.com/images/105455998/750/562/image.jpg",
-        "rank": 28,
-        "summary": "The deliciously dark, stylish genre of film noir simply wouldn\u2019t exist without Double Indemnity. This one truly has it all: flashbacks, murder, shadows and cigarettes galore, and, of course, a devious femme fatale (Barbara Stanwyck). As one of the great directors of Hollywood\u2019s golden age, Billy Wilder excelled across a variety of cinematic types, but this hard-boiled gem is his most influential work.\u2014Abbey Bender"
-    },
-    {
-        "id": 29,
-        "title": "The 400 Blows (1959)",
-        "image": "https://media.timeout.com/images/105455999/750/562/image.jpg",
-        "rank": 29,
-        "summary": "The first in a five-film autobiographical series, Francois Truffaut\u2019s The 400 Blows is the story of Antoine Doinel (Jean-Pierre L\u00e9aud)\u2014stuck in an unhappy home life but finding solace in goofing off, smoking and hanging with his friends\u2014and it\u2019s cinema\u2019s greatest evocation of a troubled childhood. Plus, it\u2019s the perfect primer to get kids into subtitled movies.\u2014Ian Freer"
-    },
-    {
-        "id": 30,
-        "title": "Star Wars (1977)",
-        "image": "https://media.timeout.com/images/105456000/750/562/image.jpg",
-        "rank": 30,
-        "summary": "Popcorn pictures hit hyperdrive after George Lucas unveiled his intergalactic Western, an intoxicating gee-whiz space opera with dollops of Joseph Campbell\u2013style mythologizing that obliterated the moral complexities of 1970s Hollywood. This postmodern movie-brat pastiche references a virtual syllabus of genre classics, from Metropolis and Triumph of the Will to Kurosawa\u2019s samurai actioners, Flash Gordon serials and WWII thrillers like The Dam Busters. Luke Skywalker\u2019s quest to rescue a princess instantly elevated B-movie bliss to billion-dollar-franchise sagas.\u2014Stephen Garrett"
-    },
-    {
-        "id": 31,
-        "title": "The Passion of Joan of Arc (1928)",
-        "image": "https://media.timeout.com/images/105456001/750/562/image.jpg",
-        "rank": 31,
-        "summary": "Carl Theodor Dreyer\u2019s classic tale of the trial of Joan of Arc is somehow both austere and maximalist. The director shows restraint with setting and scope; the film focuses largely on the back-and-forth between Joan and her inquisitors. But the intense close-ups give free reign to Maria Falconetti\u2019s marvelously expressive turn as the doomed Maid of Orleans. Made at the close of the silent era, it set new standards in screen acting.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 32,
-        "title": "Once Upon a Time in the West (1968)",
-        "image": "https://media.timeout.com/images/105456002/750/562/image.jpg",
-        "rank": 32,
-        "summary": "The ultimate cult film, Leone\u2019s spaghetti Western is set in a civilizing America\u2014though mostly shot in Rome and Spain\u2014but the real location is an abstract frontier of old versus new, of larger-than-life heroes fading into memory. It\u2019s a triumph of buried political commentary and purest epic cinema. Henry Fonda\u2019s icy stare, composer Ennio Morricone\u2019s twangy guitars of doom and the monumental Charles Bronson as the last gunfighter (\u201can ancient race\u2026\u201d) are just three reasons of a million to saddle up.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 33,
-        "title": "Alien (1979)",
-        "image": "https://media.timeout.com/images/105456003/750/562/image.jpg",
-        "rank": 33,
-        "summary": "If all it did was to launch a franchise centered on Sigourney Weaver\u2019s fierce survivor (still among the toughest action heroines of cinema), Ridley Scott\u2019s claustrophobic, deliberately paced sci-fi-horror classic would still be cemented in the film canon. But Alien claims masterpiece status with its subversive gender politics (this is a movie that impregnates men), its shocking chestburster centerpiece and industrial designer H.R. Giger\u2019s strangely elegant double-jawed creature, a nightmarish vision of hostility\u2014and one of cinema\u2019s most unforgettable pieces of pure craft.\u2014Tomris Laffly"
-    },
-    {
-        "id": 34,
-        "title": "Tokyo Story (1951)",
-        "image": "https://media.timeout.com/images/105456004/750/562/image.jpg",
-        "rank": 34,
-        "summary": "Simply spun, Yasujiro Ozu\u2019s domestic drama is small but perfectly formed. Chishu Ryu and Chieko Higashiyama are dignified and moving as parents who visit their children and grandchildren, only to be neglected. Delicately played, beautifully shot (often with the camera hovering just off the ground), Ozu\u2019s masterpiece is the family movie given grandeur and intimacy. If you loved last year\u2019s Shoplifters, you\u2019ll love this.\u2014Ian Freer"
-    },
-    {
-        "id": 35,
-        "title": "Pulp Fiction (1994)",
-        "image": "https://media.timeout.com/images/105456005/750/562/image.jpg",
-        "rank": 35,
-        "summary": "Like Nirvana and The Sopranos in their respective mediums, Quentin Tarantino\u2019s second feature arrived in the waning years of the 20th century and felt, at once, like a culmination of cinema\u2019s first hundred or so years and an explosion of everything we thought we knew about film.\u00a0 A gangster flick where the gangsters chat about cheeseburgers and enter twist contests at kitschy diners? Where the narrative is like a smashed jigsaw puzzle put back together out of order? With the guy from Look Who\u2019s Talking starring as a slick-talking, suit-wearing hitman? That\u2019s a movie that can make money, win Oscars and spin off so many imitators it\u2019s practically a genre unto itself? Turns out, it could; it just took an over-caffeinated ex-video store clerk with the right amount of irrational confidence to make it happen. The end result is a film preserved in an amber of eternal cool \u2013 when the aliens come pick over the remains of our decimated planet and discover a VHS copy among the rubble, they\u2019ll agree that John Travolta was the perfect casting choice, Samuel L Jackson is the baddest motherfucker on the planet and the true contents of the briefcase really don\u2019t matter. \u2014Matthew Singer"
-    },
-    {
-        "id": 36,
-        "title": "The Truman Show (1998)",
-        "image": "https://media.timeout.com/images/101630177/750/562/image.jpg",
-        "rank": 36,
-        "summary": "The late \u201990s spawned two prescient satires of reality TV, back when it was still in its pre-epidemic phase: the underrated EDtv and, this, Peter Weir\u2019s profound statement on the way the media has its claws in us. In some ways a kinder, gentler version of Network, The Truman Show is a TV parable in which a meek hero (Jim Carrey) wins back his life. It can also be considered an angrier film, slamming both the controlling TV networks (represented by Ed Harris\u2019s messiahlike Christof) and us, the viewing public, for making a game show of other people\u2019s lives.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 37,
-        "title": "Lawrence of Arabia (1962)",
-        "image": "https://media.timeout.com/images/135315/750/562/image.jpg",
-        "rank": 37,
-        "summary": "Notions of masculinity, conflicted sexuality and tribal identity (or lack of it) boil beneath the surface of David Lean\u2019s historical epic like magma. They seeps through the cracks of its depiction of iconoclastic Edwardian nomad and Arab leader T E Lawrence (Peter O\u2019Toole), locating its huge set pieces within the megalomaniac compass of its hero and lending depth to its intimate moments when the cost of all is laid bare. Amid its sweeping Arabian landscapes, famously captured by cinematographer Freddie Young\u2019s cameras, it\u2019s the interior landscape of Lawrence himself that this great biopic maps out so memorably.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 38,
-        "title": "Psycho (1960)",
-        "image": "https://media.timeout.com/images/105456008/750/562/image.jpg",
-        "rank": 38,
-        "summary": "Alfred Hitchcock had made a few scary movies earlier in his career, but Psycho was something completely different \u2013 not just for his personal oeuvre, or the horror genre, but movies in general. Shoot, some have even argued that it changed society as a whole. That discussion can fill a book \u2013 and it has \u2013 but for the purposes of this list, its contributions to cinema more than suffice. May we count the ways? It invented the modern slasher flick. It anticipated the moral ambiguity that would become de rigueur in the New Hollywood of the \u201870s. It upturned the established rules of narrative, killing off the supposed heroine midway through, in unprecedentedly shocking fashion. It also showed a toilet in use for the first time. Sure, there are other filmmakers who can claim to have covered some of that ground first; Michael Powell\u2019s Peeping Tom, in fact, arrived a few months earlier and hit on many of the same themes. The difference with Hitch is he knew how to\u00a0transmit new ideas to the widest possible audience. He didn\u2019t just break the rules \u2013 he rewrote the manual. And horror directors are still reading from it today. \u2014Matthew Singer"
-    },
-    {
-        "id": 39,
-        "title": "Sansho the Bailiff (1954)",
-        "image": "https://media.timeout.com/images/105456009/750/562/image.jpg",
-        "rank": 39,
-        "summary": "Japanese cinema has produced no shortage of heavy hitters, but director Kenji Mizoguchi may deserve prime of place. He was able to turn out impeccable ghost stories (Ugetsu) and backstage dramas (The Story of the Last Chrysanthemums), but his greatest trait was a deep, unshakable empathy for women, beaten down by the patriarchy but heartbreaking in their suffering. These women are central to Sansho the Bailiff, a feudal tale of familial dissolution that will wreck you. Make no apologies for your tears; everyone else will be crying, too.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 40,
-        "title": "Andrei Rublev (1966)",
-        "image": "https://media.timeout.com/images/105456010/750/562/image.jpg",
-        "rank": 40,
-        "summary": "Mournful, challenging and mesmerizing, Soviet director Andrei Tarkovsky\u2019s epic portrait of the life and times of one of Russia\u2019s most famous medieval icon painters foregrounds qualities such as landscape and mood over story and character. Ultimately, it\u2019s the tale of a man\u2019s attempt to overcome his crisis of faith in a world that seems to have an endless supply of violence and strife\u2014and it\u2019s a remarkable testament to the persistence of artists working under oppressive regimes.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 41,
-        "title": "The Umbrellas of Cherbourg (1964)",
-        "image": "https://media.timeout.com/images/105456011/750/562/image.jpg",
-        "rank": 41,
-        "summary": "The melancholy of Michel Legrand\u2019s glorious score washes over viewers\u2019 hearts from the first moment of Jacques Demy\u2019s nontraditional, sung-through musical. One of the most romantic films ever made about the pains and purity of first love, the immaculately styled The Umbrellas of Cherbourg challenged the lighter Hollywood musicals of the era (like The Sound of Music and My Fair Lady) and launched the sensational Catherine Deneuve into international stardom. Later, it would be a major influence on La La Land.\u2014Tomris Laffly"
-    },
-    {
-        "id": 42,
-        "title": "Chinatown (1974)",
-        "image": "https://media.timeout.com/images/105456012/750/562/image.jpg",
-        "rank": 42,
-        "summary": "Director Roman Polanski and screenwriter Robert Towne took a modestly sleazy noir setup and turned it into a meditation on the horrors of American history and rapacious capitalism. The film also sports a perfect cast, with a top-of-his-game Jack Nicholson as a cynical private eye, an impossibly alluring Faye Dunaway as the femme fatale with a past so dark her final revelation still shocks, and the legendary John Huston as the monstrous millionaire at the heart of it all.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 43,
-        "title": "The Seventh Seal (1957)",
-        "image": "https://media.timeout.com/images/105456013/750/562/image.jpg",
-        "rank": 43,
-        "summary": "Not just any film gets homaged by Bill and Ted. But Ingmar Bergman\u2019s great treatise on mortality isn\u2019t just any film. Despite becoming somehow synonymous with \u201cdifficult art-house statement,\u201d it\u2019s not all weighty themes, plague-strewn landscapes and chess games with the Grim Reaper. As Max von Sydow\u2019s medieval knight travels the land witnessing the apocalypse, loads of life-affirming moments lighten the load. Of course, it\u2019s a work of profound philosophical thought, too, so you\u2019ll feel brainier for having seen it.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 44,
-        "title": "Lost in Translation (2003)",
-        "image": "https://media.timeout.com/images/100653879/750/562/image.jpg",
-        "rank": 44,
-        "summary": "Worlds collide in Sofia Coppola's pitch-perfect tale of a movie star (Bill Murray) and a newlywed (Scarlett Johansson) in Tokyo. Coppola approaches each of her characters with a warmth and sensitivity that exudes from the screen\u2014and ensures that \u201cBrass in Pocket\u201d will remain a karaoke favorite around the world (pink wig optional). Why has the film endured so vividly in viewers\u2019 hearts? Maybe because it captures those gloriously melancholic moments we\u2019ve all experienced that seem to be gone in a flash, yet linger forever.\u2014Anna Smith"
-    },
-    {
-        "id": 45,
-        "title": "Taxi Driver (1976)",
-        "image": "https://media.timeout.com/images/105456015/750/562/image.jpg",
-        "rank": 45,
-        "summary": "A time capsule of a vanished New York and a portrait of twisted masculinity that still stings, Taxi Driver stands at the peak of the vital, gritty auteur-driven filmmaking that defined 1970s New Hollywood. Martin Scorsese\u2019s vision of vigilantism is filled with an uncomfortable ambience, and Paul Schrader\u2019s screenplay probes philosophical depths that are brought to vicious life by Robert De Niro\u2019s unforgettable performance.\u2014Abbey Bender"
-    },
-    {
-        "id": 46,
-        "title": "Spirited Away (2001)",
-        "image": "https://media.timeout.com/images/105456016/750/562/image.jpg",
-        "rank": 46,
-        "summary": "The jewel in Japanese animation studio Studio Ghibli\u2019s crown, Spirited Away is a glorious bedtime story filled with soot sprites, monsters and phantasms\u2014it\u2019s a movie with the power to coax out the inner child in the most grown-up and jaded among us. A spin on Alice's Adventures in Wonderland (with the same invitation to follow your imagination), Spirited Away has been ushering audiences into its dream world for almost two decades and seems only to grow in stature each year, a tribute to its hand-drawn artistry. Trivia time: It remains Japan\u2019s highest-grossing film ever, just ahead of Titanic.\u2014Anna Smith"
-    },
-    {
-        "id": 47,
-        "title": "Night of the Living Dead (1968)",
-        "image": "https://media.timeout.com/images/105456017/750/562/image.jpg",
-        "rank": 47,
-        "summary": "The first no-budget horror movie to become a bona-fide calling card for its director, George A. Romero\u2019s seminal frightfest begins with a single zombie in a graveyard and builds to an undead army attacking a secluded house. Most modern horror clich\u00e9s start here. But nothing betters it for style, mordant wit, racial and political undertow, and scaring the bejesus out of you, all some 50 years before Us.\u2014Ian Freer"
-    },
-    {
-        "id": 48,
-        "title": "Battleship Potemkin (1925)",
-        "image": "https://media.timeout.com/images/105456020/750/562/image.jpg",
-        "rank": 48,
-        "summary": "This rousing Russian silent film was conceived in the heat of Soviet propaganda and commissioned by the still-young Communist government to salute an event from 20 years earlier. It tells of a sailors\u2019 revolt that morphs into a full-blown workers\u2019 uprising in the city of Odessa; the movie is most famous for one breathtaking sequence\u2014much copied and parodied since\u2014of a baby carriage tumbling down a huge flight of steps. But Battleship Potemkin is full of powerful images and heady ideas, and director Sergei Eisenstein is rightly considered one of the pioneers of early film language, with his influence felt through the decades.\u2014Dave Calhoun"
-    },
-    {
-        "id": 49,
-        "title": "Modern Times (1936)",
-        "image": "https://media.timeout.com/images/105456022/750/562/image.jpg",
-        "rank": 49,
-        "summary": "The only Charlie Chaplin movie to see the Little Tramp go on a massive cocaine binge, this relentlessly inventive silent classic hardly needs the added kick. The gags come almost as fast as you can process them, with the typically pinpoint Chaplin slapstick conjured here from scenarios that seem purpose-built to end in disaster. The sight of Chaplin literally feeding himself into a massive machine offers a still-germane satire on technological advancement.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 50,
-        "title": "Breathless (1960)",
-        "image": "https://media.timeout.com/images/105456023/750/562/image.jpg",
-        "rank": 50,
-        "summary": "Film critic Jean-Luc Godard\u2019s seismic directing debut is a bravado deconstruction of the gangster picture that also reinvented moviemaking itself. It features Cubistic jump cuts, restless handheld camerawork, location shoots, eccentric pacing (the 24-minute centerpiece is two lovers talking in a bedroom), and self-conscious asides about painting, poetry, pop culture, literature and film. A sexy fling between petty thief Jean-Paul Belmondo and Sorbonne-bound gamine Jean Seberg morphs into an oddly touching, existential meditation. It\u2019s pulp fiction, but alchemically profound.\u2014Stephen Garrett"
-    },
-    {
-        "id": 51,
-        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
-        "image": "https://media.timeout.com/images/105456025/750/562/image.jpg",
-        "rank": 51,
-        "summary": "So much of Stanley Kubrick\u2019s genius was conceptual, and this one asks his most audacious question: What if the world came to an end\u2014and it was hilarious? Nuclear annihilation was a subject in which Kubrick immersed himself, reading virtually every unclassified text. His conclusion was grim: There would be no winning. Via darkest comedy (the only way into the subject) and an unhinged Peter Sellers playing three separate parts, Kubrick made his point.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 52,
-        "title": "M (1931)",
-        "image": "https://media.timeout.com/images/105456026/750/562/image.jpg",
-        "rank": 52,
-        "summary": "One of those epochal films\u2014there\u2019s only a handful\u2014that sits on the divide between silent cinema and the sound era but taps into the virtues of both, Fritz Lang\u2019s serial-killer thriller burns with deep-etched visual darkness while perking ears with its whistled \u201cIn the Hall of the Mountain King\u201d (performed by a purse-lipped Lang himself; his star, Peter Lorre, couldn\u2019t whistle). The movie\u2019s theme is vigilance: We must protect our children, but who will protect society from itself? M is like a sonar listening to a pre-Nazi Germany on the cusp of shedding its humanity.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 53,
-        "title": "Blade Runner",
-        "image": "https://media.timeout.com/images/105456027/750/562/image.jpg",
-        "rank": 53,
-        "summary": "Set in (eek!) 2019, Ridley Scott\u2019s vision of a dystopian future is one of the most stylish sci-fi films of all time. With a noir-inspired aesthetic and a haunting synth score by Vangelis (a massive influence on Prince), Blade Runner is iconic not just for its era-defining look, but also for its deeper philosophical examination of what it means to be human. Many have tried to imitate the film\u2019s uncanny vibe, but these rain-slicked streets and seedy vistas possess a singular menace.\u2014Abbey Bender"
-    },
-    {
-        "id": 54,
-        "title": "The Bitter Tears of Petra von Kant (1972)",
-        "image": "https://media.timeout.com/images/105456028/750/562/image.jpg",
-        "rank": 54,
-        "summary": "The creative fecundity of Rainer Werner Fassbinder, dead from an overdose at age 37 after completing more than 40 features, deserves enshrinement by a new generation. This film is arguably his sharpest and most psychologically complex; inarguably, it\u2019s his bitchiest. There is so much to love in Fassbinder\u2019s shag-carpeted showdown, which goes beyond the spectacle of two dueling fashionistas into a profound exploration of aging and obsolescence.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 55,
-        "title": "Rome, Open City (1945)",
-        "image": "https://media.timeout.com/images/105456029/750/562/image.jpg",
-        "rank": 55,
-        "summary": "Few film movements can boast the hit rate of Italian neorealism, a post-WWII wave dedicated to working-class struggle that seems to comprise only masterpieces. Robert Rossellini was responsible for a few of them, including Germany Year Zero and this earlier drama of repression and resistance, which boasts not one but two of the most memorable death scenes in all of cinema.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 56,
-        "title": "Nosferatu (1922)",
-        "image": "https://media.timeout.com/images/105456202/750/562/image.jpg",
-        "rank": 56,
-        "summary": "Brace for the land of phantoms and the call of the Bird of Death: One of the earliest (though unauthorized) adaptations of Dracula is still the most terrifying. Max Schreck\u2019s insectlike performance as the bloodthirsty Count Orlok is just as transfixing and repulsive as it was almost a century ago. German Expressionist director F.W. Murnau\u2019s haunting images of a crepuscular world set the chilling standard for generations of cinematic nightmares.\u2014Stephen Garrett"
-    },
-    {
-        "id": 57,
-        "title": "Airplane! (1980)",
-        "image": "https://media.timeout.com/images/105456031/750/562/image.jpg",
-        "rank": 57,
-        "summary": "With about 6,500 zingers to choose from, everyone has their favorite Airplane! gag. Directors David and Jerry Zucker and their partner in extreme silliness, Jim Abrahams, truly threw the kitchen sink at this dizzying spoof of the \u201970s disaster movies that were all the rage at the time. Onscreen comedy, in turn, was modernized for what would be its most transforming decade. Our favorite joke? \u201cLooks like I picked the wrong week to quit amphetamines.\u201d\u2014Phil de Semlyen"
-    },
-    {
-        "id": 58,
-        "title": "Under the Skin (2013)",
-        "image": "https://media.timeout.com/images/105456032/750/562/image.jpg",
-        "rank": 58,
-        "summary": "Hypnotic, bewitching, thought-provoking, disturbing, horrifying: However you react to it, you won't forget Jonathan Glazer's startling adaptation of Michel Faber's woman-who-fell-to-earth novel. Using her celebrity in a radical way, Scarlett Johansson is perfectly cast as an alien in human form who roams Glasgow trying to pick up men in her van. It was shot guerrilla-style on the streets of the Scottish city, so look out for the footage of genuinely baffled passersby.\u2014Anna Smith"
-    },
-    {
-        "id": 59,
-        "title": "Mad Max: Fury Road (2015)",
-        "image": "https://media.timeout.com/images/105456033/750/562/image.jpg",
-        "rank": 59,
-        "summary": "Both a sequel and a reboot, the fourth entry in director George Miller\u2019s series of post-apocalyptic gearhead epics fuses death-defying stunts with modern special effects to give us one of the all-time-great action movies. This one is a nonstop barrage of chases, each more spectacularly elaborate and nightmarish than the last\u2014but it\u2019s all combined with Miller\u2019s surreal, poetic sensibility, which sends it into the realm of art.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 60,
-        "title": "Apocalypse Now (1979)",
-        "image": "https://media.timeout.com/images/105456034/750/562/image.jpg",
-        "rank": 60,
-        "summary": "Francis Ford Coppola\u2019s evergreen Vietnam War classic proves war is swell, as assassin Martin Sheen heads upriver to kill renegade colonel Marlon Brando. En route, there\u2019s surfing, a thrilling helicopter raid, napalm smelling, tigers and Playboy bunnies, until Sheen steps off the boat and into a different zone of madness\u2014or is it genius? Who knows at this point?\u2014Ian Freer"
-    },
-    {
-        "id": 61,
-        "title": "Brokeback Mountain (2005)",
-        "image": "https://media.timeout.com/images/105456035/750/562/image.jpg",
-        "rank": 61,
-        "summary": "Forget what the Oscars crowned as the Best Picture of 2005: Ang Lee\u2019s tragic gay romance is the nominee that stands the test of time. Anchored by Rodrigo Prieto\u2019s swoonworthy cinematography and a wistful Heath Ledger (whose performance toppled societal perceptions of masculinity), Brokeback Mountain is a milestone in LGBTQ art-house cinema. It reimagined the Western genre and became a part of the zeitgeist.\u2014Tomris Laffly"
-    },
-    {
-        "id": 62,
-        "title": "Duck Soup (1933)",
-        "image": "https://media.timeout.com/images/105456037/750/562/image.jpg",
-        "rank": 62,
-        "summary": "Biting political satires don't have to be long and complicated: This 68-minute masterpiece is perfectly pithy, exposing the absurdities of international politics with swift wit and spot-on slapstick. Often regarded as the funniest of the Marx Brothers\u2019 oeuvre, the film is also\u2014sadly\u2014timeless, as its portrayal of a war-mongering dictatorship remains relevant to this day.\u2014Anna Smith"
-    },
-    {
-        "id": 63,
-        "title": "The Blair Witch Project (1999)",
-        "image": "https://media.timeout.com/images/105456036/750/562/image.jpg",
-        "rank": 63,
-        "summary": "In 1997, a group of no-name actors went into the Maryland backwoods with some handheld cameras, a loose script and a budget that wouldn\u2019t cover the catering on most of the other films on this list, and emerged with a blockbuster. Perhaps no movie in history has ever achieved more with less than Daniel Myrick and Eduardo S\u00e1nchez\u2019s atmospheric horror classic. For years, though, The Blair Witch Project was discussed as a triumph of marketing more than anything else. It was pushed by an ad campaign that played coy with the veracity of the allegedly \u2018found footage\u2019: did an amateur documentary crew really disappear in the woods while investigating a local myth? Sheer curiosity drove audiences to theatres en masse \u2013 and it wasn\u2019t uncommon to leave a screening and overhear confused grumbling in the lobby. Twenty-plus years and an oversaturation of lesser imitators later, it\u2019s easier to appreciate Blair Witch as a master class of low-budget cinema. Honestly, if there\u2019s a scarier scene in the last two decades than when those children\u2019s hands imprint on the crew\u2019s tent in the middle of night, it surely cost a hell of a lot more to make."
-    },
-    {
-        "id": 64,
-        "title": "All the President\u2019s Men (1976)",
-        "image": "https://media.timeout.com/images/105456038/750/562/image.jpg",
-        "rank": 64,
-        "summary": "Many movies have been made depicting journalism as it happens. Vanishingly few get the process right, and even fewer manage to convey the obsessiveness, the anxious frustration and the exhilaration of chasing a big story. Alan J Pakula\u2019s movie about two reporters chasing the biggest story in American political history nails every beat. The achievement is especially remarkable considering that, at the time, the story could barely even be considered history: Nixon had resigned from office not even two years prior. But that nearness lends the film a living energy that would\u2019ve dulled with additional hindsight. Even with its unspoilable ending, Pakula and screenwriter William Goldman still managed to build an uncommonly nervy thriller that never digresses from the central narrative. No, you won\u2019t get much of an idea of who Woodward and Bernstein (played with typical \u201970s naturalism by Dustin Hoffman and Robert Redford) are apart from their work. Instead, you just see the work \u2013 and in this case, that\u2019s more than enough.\u00a0\u2014Matthew Singer"
-    },
-    {
-        "id": 65,
-        "title": "The Apu trilogy (1955, 1956, 1959)",
-        "image": "https://media.timeout.com/images/105456040/750/562/image.jpg",
-        "rank": 65,
-        "summary": "We\u2019re cheating by including all three films (Pather Panchali, Aparajito and The World of Apu), but really, how do you separate the installments of Satyajit Ray\u2019s magnificent coming-of-age trilogy? The Bengali great follows young Apu (Apurba Kumar Roy) from boyhood to adult life via schooling and a move from his remote village to the big city, as well as loves and losses. Some of the most intimate Indian cinema ever captured, it\u2019s also completely relatable, whether you hail from Kolkata, Kansas or Camden Town.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 66,
-        "title": "The General (1926)",
-        "image": "https://media.timeout.com/images/105456041/750/562/image.jpg",
-        "rank": 66,
-        "summary": "Boy meets train. Boy loses train. Boy chases Union forces who stole train, wins back train and fires off in the opposite direction. It may not sound like your average love story, but that\u2019s exactly what Buster Keaton\u2019s deadpan and death-defying silent comedy is: a majestic demonstration of trick photography, balletic courage and comic timing, all underpinned by genuine heart. Trust us, it\u2019s loco-motional.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 67,
-        "title": "Eternal Sunshine of the Spotless Mind (2004)",
-        "image": "https://media.timeout.com/images/105456042/750/562/image.jpg",
-        "rank": 67,
-        "summary": "There are countless movies about romantic relationships, yet few explore the subject more creatively than Michel Gondry\u2019s breakthrough, scripted by Charlie Kaufman (who was then becoming a household name with Being John Malkovich and Adaptation). The sci-fi\u2013inflected tale of two halves of a broken-up couple going through a memory-erasing procedure takes many surprising, poignant turns; the film\u2019s impeccably executed combination of authentically quirky imagery and philosophical inquiry has become a signpost of modern independent cinema.\u2014Abbey Bender"
-    },
-    {
-        "id": 68,
-        "title": "The Texas Chain Saw Massacre (1974)",
-        "image": "https://media.timeout.com/images/105456043/750/562/image.jpg",
-        "rank": 68,
-        "summary": "The title is still a killer piece of marketing, suggesting something much gorier than what you get. That\u2019s not to say Tobe Hooper\u2019s masterpiece doesn\u2019t deliver. A grungy vision of horror captured during a palpably sweaty and stenchy Texas summer, the film has taken its rightful place as a definitive parable of Nixonian class warfare, eat-or-be-eaten social envy and the essentially unknowable nature of some unlucky parts of the world.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 69,
-        "title": "Come and See (1985)",
-        "image": "https://media.timeout.com/images/105456044/750/562/image.jpg",
-        "rank": 69,
-        "summary": "As unsparing as cinema gets, the influence of Elem Klimov\u2019s sui generis war movie transcends the genre in a way that not even Steven Spielberg\u2019s Saving Private Ryan can match. At its heart it\u2019s a coming-of-age story that follows a young Belarusian boy (Aleksei Kravchenko) through unspeakable horror as Nazi death squads visit an apocalypse on his region. Alongside its historical truths, the film\u2019s grammar and visual language\u2014there are passages that play like an ultra-violent acid trip\u2014are what truly elevates it. Like an Hieronymus Bosch masterpiece, the images here can never be unseen.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 70,
-        "title": "Heat (1995)",
-        "image": "https://media.timeout.com/images/105456045/750/562/image.jpg",
-        "rank": 70,
-        "summary": "Writer-director Michael Mann\u2019s heist masterpiece put two of our greatest actors, Robert De Niro and Al Pacino, together onscreen for the first time\u2014one as a stoic master criminal, the other as the obsessive cop determined to bring him down. In weaving their stories together, Mann presents dueling but equally weighted perspectives, with our allegiance as viewers constantly shifting. The last word on cops-and-robbers movies, it\u2019s suffused with a magic that crime thrillers try to recapture to this day.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 71,
-        "title": "The Shining (1980)",
-        "image": "https://media.timeout.com/images/105456047/750/562/image.jpg",
-        "rank": 71,
-        "summary": "Our list doesn\u2019t lack for Stanley Kubrick movies (nor should it). Still, it\u2019s shocking to remember that The Shining\u2014so redolent of the director\u2019s pet themes of mazelike obsession and the banality of evil\u2014was once considered a minor work. It\u2019s since come to represent the most concentrated blast of Kubrick\u2019s total command; he\u2019s the god of the film, Steadicam-ing around corners and making the audience notice that he was born to redefine horror. Even if we can\u2019t roll with the crackpot fan theories about how Kubrick allegedly faked the Apollo moon landing, we\u2019ll readily admit that this film contains cosmic multitudes.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 72,
-        "title": "Toy Story (1995)",
-        "image": "https://media.timeout.com/images/105456048/750/562/image.jpg",
-        "rank": 72,
-        "summary": "The one that got Pixar\u2019s (Luxo) ball rolling and still an absolute high-water mark for CG animation, Toy Story reinvented what a family movie could be. On the surface, it\u2019s a simple story about a couple of miniature rivals sizing each other up (Woody was originally going to be a whole mess meaner), before falling into peril at the hands of next-door pyrotechnics genius Sid. But it\u2019s also about jealousy, power dynamics and our relationships with our own childhoods. With it, Pixar took storytelling to infinity and far, far beyond.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 73,
-        "title": "Killer of Sheep (1977)",
-        "image": "https://media.timeout.com/images/105456049/750/562/image.jpg",
-        "rank": 73,
-        "summary": "Shot on 16-millimeter film in sketchy light, Charles Burnett\u2019s UCLA graduate thesis film stitches together seemingly mundane vignettes to form a compelling mosaic of late-\u201970s African-American life. A landmark of independent black cinema, it\u2019s set to a great soundtrack ranging from blues and classical to Paul Robeson. Poetic, compassionate, angry, ironic: All human life is present here.\u2014Ian Freer"
-    },
-    {
-        "id": 74,
-        "title": "A Woman Under the Influence (1974)",
-        "image": "https://media.timeout.com/images/105456050/750/562/image.jpg",
-        "rank": 74,
-        "summary": "There\u2019s a tendency in these greatest-of-all-time exercises to prioritize the director, the camerawork or the screenplay. But respect must be paid to the performer, too: In a decade of brilliant acting, no turn was quite as galvanizing as the one given by Gena Rowlands in this stunning peek into a fraying mind. A fluky Los Angeles housewife and mother who\u2019s constantly being told to calm down, Rowlands\u2019s Mabel is the apotheosis of John Cassavetes\u2019s improvisatory cinema; our concern for her never flags as she teeters through excruciating scenes of breakdown and regrouping.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 75,
-        "title": "Annie Hall (1977)",
-        "image": "https://media.timeout.com/images/105456052/750/562/image.jpg",
-        "rank": 75,
-        "summary": "Quotable, endearing and bursting with creative moments, Annie Hall is one of the most revolutionary of romantic comedies. This quintessential New York movie turned countless viewers on to the joys of verbose dialogue (and experimentation in menswear for women), and has long been lauded for both its accessibility and its poignancy, a balance that few movies have since achieved so memorably.\u2014Abbey Bender"
-    },
-    {
-        "id": 76,
-        "title": "Some Like It Hot (1959)",
-        "image": "https://media.timeout.com/images/105456054/750/562/image.jpg",
-        "rank": 76,
-        "summary": "Clocking it at number 15 on our list of the 100 Greatest Comedies Ever Made, Billy Wilder\u2019s classic gangster farce plays like Scarface on helium. Tony Curtis and Jack Lemmon make one of cinema\u2019s most delightful double acts as a couple of musicians on the run from the Mob, but Marilyn Monroe steals the picture as the coquettish, breathy and entirely loveable Sugar. Nobody\u2019s perfect but this movie gets pretty darn close.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 77,
-        "title": "Metropolis (1927)",
-        "image": "https://media.timeout.com/images/105456056/750/562/image.jpg",
-        "rank": 77,
-        "summary": "Hugely expensive for its time, Metropolis is Blade Runner, The Terminator and Star Wars all rolled into one (not to mention 50 years prior). Fritz Lang\u2019s silent vision of a totalitarian society still astounds through its stunning cityscapes, groundbreaking special effects and a bewitchingly evil robot (Brigitte Helm). It\u2019s science fiction at its most ambitious and breathtaking\u2014the not-so-modest beginnings of onscreen genre seriousness.\u2014Ian Freer"
-    },
-    {
-        "id": 78,
-        "title": "The Maltese Falcon (1941)",
-        "image": "https://media.timeout.com/images/105456057/750/562/image.jpg",
-        "rank": 78,
-        "summary": "The accepted wisdom is that the noir era really kicked off during the hard-bitten post-WWII years, which makes John Huston\u2019s adaptation of Dashiell Hammett's detective novel a real trailblazer. It\u2019s a template for the swathe of noir flicks that would follow, offering up a jaded-but-noble gumshoe in Humphrey Bogart\u2019s Sam Spade, a femme fatale (Mary Astor), a couple of shifty villains (Sydney Greenstreet, Peter Lorre) and a labyrinthine plot that drags you around by the nose. If the movie were any more hard-boiled, you\u2019d crack your teeth on it.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 79,
-        "title": "This Is Spinal Tap (1984)",
-        "image": "https://media.timeout.com/images/105456058/750/562/image.jpg",
-        "rank": 79,
-        "summary": "Exploding drummers, amps that go to 11, tiny Stonehenges, \u201cDobly\u201d: This spoof rock documentary\u2014rockumentary, if you must\u2014is monumentally influential on cinema, cringe comedy and, possibly, the music industry itself. (There\u2019s not a band out there without at least one Spinal Tap moment to its name.) Christopher Guest, Michael McKean and Harry Shearer are comic royalty, and we can only genuflect in their presence; shortly after this film, Guest kicked off his own directorial brand of humor, directly inspired by Rob Reiner\u2019s heavy-metal satire.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 80,
-        "title": "It Happened One Night (1934)",
-        "image": "https://media.timeout.com/images/105456059/750/562/image.jpg",
-        "rank": 80,
-        "summary": "If only Hollywood made \u2019em like they used to: crackling romantic comedies that conquered the Oscars. Frank Capra\u2019s hilarious hate-at-first-sight love story is still one of the fastest movies ever made. Claudette Colbert\u2019s spoiled heiress and Clark Gable\u2019s opportunistic reporter hit the road and bicker their way toward a happily-ever-after ending, class barriers be damned. Not only did this smart and suggestively sexy pre-Code screwball shape every rom-com that followed, it still has a leg up on most of them.\u2014Tomris Laffly"
-    },
-    {
-        "id": 81,
-        "title": "Die Hard (1988)",
-        "image": "https://media.timeout.com/images/101681541/750/562/image.jpg",
-        "rank": 81,
-        "summary": "Let\u2019s get this out of the way: Die Hard is a Christmas movie. Deal with it. Another, less controversial statement about John McTiernan\u2019s blockbuster: it\u2019s the platonic ideal of an action movie, and Bruce Willis as wiseass New York cop John McClane is the coolest action hero of all-time. The sequels would stretch the limits of his charisma by getting bigger and stupider, but the original hits the perfect amount of big and brash, as McClane attempts to thwart the plans of a European terrorist group that\u2019s seized an LA high-rise and taken his wife hostage. But the truest reason Die Hard succeeds to the degree it does \u2013 aside from the cracking dialogue, spectacular stunts and small details, i.e. McClane being forced to fight a bunch of terrorists in his bare foot \u2013 is that McClane has the ideal foil in Alan Rickman\u2019s Hans Gruber, who might also be the best action movie villain of all-time, an erudite pseudo-revolutionary who makes it clear that he reads Forbes and doesn\u2019t much care for garrulous American cowboys."
-    },
-    {
-        "id": 82,
-        "title": "The Conformist (1970)",
-        "image": "https://media.timeout.com/images/105456061/750/562/image.jpg",
-        "rank": 82,
-        "summary": "In Mussolini\u2019s Italy, a repressed homosexual (Jean-Louis Trintignant) joins the Fascist party in order to blend in and hide his true self. Part psychoanalysis session, part colorful genre fantasia, director Bernardo Bertolucci\u2019s enormously influential drama journeys through different styles and aesthetics. As much as Orson Welles\u2019s Citizen Kane did with the films of the \u201920s, \u201930s, and early \u201940s, The Conformist offers a powerful compendium of cinematic techniques from the eras preceding it.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 83,
-        "title": "The Thing (1982)",
-        "image": "https://media.timeout.com/images/105456062/750/562/image.jpg",
-        "rank": 83,
-        "summary": "Let John Carpenter\u2019s real masterpiece\u2014the one that horror mavens bow down to\u2014take its place in the pantheon. A passion project that got clobbered by audiences and critics alike, The Thing was, in fact, that rarest of remakes: one that improves upon its source. Carpenter\u2019s widescreen elegance and spooky synth minimalism (here furthered by composer Ennio Morricone) found a new counterpoint in some of the most disgusting practical special effects ever sprung on a paying audience. But the film\u2019s ice-cold paranoia, uncut and pharma-grade, has been its most lasting legacy: a template of perfection for all since.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 84,
-        "title": "Daughters of the Dust (1991)",
-        "image": "https://media.timeout.com/images/105456063/750/562/image.jpg",
-        "rank": 84,
-        "summary": "Writer-director Julie Dash should have become an Ava DuVernay-level success after her poetic feature debut, an achievement of otherworldly beauty. The first film made by an African-American woman to receive theatrical distribution, Daughters of the Dust is permeated with pride, history and matriarchal wisdom. Set in 1902, it follows the Gullah, descendents of slaves living off the coast of South Carolina, who painfully reckon with their fading traditions. Singularly ahead of its time, Daughters mourns the enduring tragedy of enslavement. Its tranquil strength later found an echo in Beyonc\u00e9\u2019s Lemonade.\u2014Tomris Laffly"
-    },
-    {
-        "id": 85,
-        "title": "Barry Lyndon (1975)",
-        "image": "https://media.timeout.com/images/105456064/750/562/image.jpg",
-        "rank": 85,
-        "summary": "Back in 1975, Stanley Kubrick\u2019s somber adaptation of William Makepeace Thackeray\u2019s novel about a young Irishman\u2019s journey from lovestruck exile to cynical grifter in 18th-century Europe seemed out of step with the gritty, intense output of contemporary cinema. Years later, it\u2019s considered by many to be Kubrick\u2019s masterpiece, and its deliberate, highly aestheticized approach has influenced everybody from Ridley Scott to Yorgos Lanthimos.\u2014Bilge Ebiri"
-    },
-    {
-        "id": 86,
-        "title": "Raging Bull (1980)",
-        "image": "https://media.timeout.com/images/105456065/750/562/image.jpg",
-        "rank": 86,
-        "summary": "Martin Scorsese\u2019s hallucinogenic biography of the tenacious boxer Jake LaMotta (Robert De Niro) is a bold mash-up of neorealist grit and hyperstylized, gossamer beauty. Put on the gloves and LaMotta is in his element; take them off and he\u2019s an insecure sociopath consumed by sexual jealousy. De Niro\u2019s monstrous portrayal is miraculously empathetic, but what\u2019s truly revolutionary is Scorsese\u2019s technique: Like a modern-day Verdi, the Italian-American auteur elevates the profane to the operatic.\u2014Stephen Garrett"
-    },
-    {
-        "id": 87,
-        "title": "Seven (1995)",
-        "image": "https://media.timeout.com/images/105456066/750/562/image.jpg",
-        "rank": 87,
-        "summary": "David Fincher is the most signature director of his era: a crafter of iconic music videos and decade-defining dramas like Zodiac and The Social Network. But his transition to Hollywood was rocky; it was a town that barely understood him. The turning point was Seven, the first time that Fincher\u2019s fearsome vision arrived uncut. Stylistically, the dark movie (shot by an inspired Darius Khondji, working with a silver-nitrate-retention process) has proven more durable than even The Silence of the Lambs, but it\u2019s that meme-able sucker punch of an ending that still rattles audiences.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 88,
-        "title": "Aguirre, the Wrath of God (1972)",
-        "image": "https://media.timeout.com/images/105456067/750/562/image.jpg",
-        "rank": 88,
-        "summary": "Ever-overshadowed by the Herculean\u00a0feat that was Fitzcarraldo, Werner Herzog\u2019s other exploration of\u00a0male vainglory in the\u00a0remotest parts of\u00a0South America\u00a0applies\u00a0another coolly obversational lens to\u00a0the\u00a0malignant\u00a0madness of out-of-control obsession. It\u2019s colder, greedier here: Klaus Kinski\u2019s conquistador craves gold, not culture. Featuring a river journey, a haunting, synthy Popul Voh score and a bunch of taunting monkeys, it\u2019s Herzog\u2019s Apocalypse Now.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 89,
-        "title": "The Battle of Algiers (1966)",
-        "image": "https://media.timeout.com/images/105456068/750/562/image.jpg",
-        "rank": 89,
-        "summary": "Political thrillers still owe a debt to Gillo Pontecorvo\u2019s ever-timely tour de force. Recounting the Algerian uprising against French colonial occupiers in the 1950s, The Battle of Algiers boldly examines terrorism, racism and even torture as a means of intelligence-gathering. Screened at the Pentagon for its topical significance during the early phases of the Iraq War, Algiers has its rebellious legacy vested in numerous politically charged epics, from Z to Steven Spielberg\u2019s Munich.\u2014Tomris Laffly"
-    },
-    {
-        "id": 90,
-        "title": "Women on the Verge of a Nervous Breakdown (1988)",
-        "image": "https://media.timeout.com/images/105456069/750/562/image.jpg",
-        "rank": 90,
-        "summary": "Pedro Almod\u00f3var broke into the mainstream with this gloriously colorful ensemble comedy, an entry point for many into a style of smart, sexually liberated European cinema. Women on the Verge of a Nervous Breakdown offers juicy roles for a range of Spain\u2019s finest female actors (plus a charmingly baby-faced Antonio Banderas) and consistently delights with its creative choices in costuming and interior design. The combination of screwball dynamics and the garishness of the 1980s is perfectly calibrated and fun.\u2014Abbey Bender"
-    },
-    {
-        "id": 91,
-        "title": "Boyhood (2014)",
-        "image": "https://media.timeout.com/images/105462445/750/562/image.jpg",
-        "rank": 91,
-        "summary": "Shot over 12 years with a cast of actors that ages before our eyes, Richard Linklater\u2019s modern-day coming-of-age classic is a peerless artistic gamble, comparable only to Michael Apted\u2019s Up series and Francois Truffaut\u2019s Antoine Doinel films. Still, Boyhood\u2019s astonishing compactness catches you off guard like no other movie. Adorned by Linklater\u2019s signature effortless rhythms, the film bottles the fleeting spirit of time, maturing into a reflective meditation on life\u2019s ordinary moments.\u2014Tomris Laffly"
-    },
-    {
-        "id": 92,
-        "title": "The Discreet Charm of the Bourgeoisie (1972)",
-        "image": "https://media.timeout.com/images/105456071/750/562/image.jpg",
-        "rank": 92,
-        "summary": "Movies have always been a gateway into radical art; Hollywood may have made them sleek and accessible, but experimentation was there from the start. Luis Bu\u00f1uel counts among the top rank of dreamers to ever grace the field of filmmaking. Without him, there\u2019s no David Lynch, no Wong Kar-wai\u2014even Alfred Hitchcock was a fan. Of Bu\u00f1uel\u2019s many seismic features (don\u2019t skip his slicin\u2019-up-eyeballs short, \u201cUn Chien Andalou\u201d), begin with this radical satire of class warfare, which sums up everything he did well. It even won him an unlikely Oscar.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 93,
-        "title": "Paths of Glory (1957)",
-        "image": "https://media.timeout.com/images/105456072/750/562/image.jpg",
-        "rank": 93,
-        "summary": "An antiwar movie, a courtroom thriller, an upstairs-downstairs study of social status, a religious critique, an absurdist satire and, finally, a heartbreakingly futile plea for compassion in the face of destruction, Stanley Kubrick\u2019s humanist masterpiece dissects all the delusional facets of the male psyche. Battlegrounds abound\u2014psychological, emotional, physical\u2014making the bleakly entrenched soldiers of 1916, and the officers who confuse folly for fame, still feel painfully relevant.\u2014Stephen Garrett"
-    },
-    {
-        "id": 94,
-        "title": "Secrets & Lies (1996)",
-        "image": "https://media.timeout.com/images/105456073/750/562/image.jpg",
-        "rank": 94,
-        "summary": "Actors are the lifeblood of director Mike Leigh\u2019s famous process, a much-discussed method of workshopping, character exploration, group improvisation and collaborative writing. It can often be months before the camera rolls. The results have been consistently exquisite over the years, funneled into period musical-comedies (Topsy-Turvy) and brutal contemporary dramas (Naked) alike. We recommend Leigh\u2019s critical breakthrough, featuring nervy turns by Brenda Blethyn and Timothy Spall, as the perfect place to begin your deep dive.\u2014Joshua Rothkopf"
-    },
-    {
-        "id": 95,
-        "title": "Sweet Smell of Success (1957)",
-        "image": "https://media.timeout.com/images/105456074/750/562/image.jpg",
-        "rank": 95,
-        "summary": "This smoky, jazzy noir from director Alexander Mackendrick (The Ladykillers) is one of the great movies about power, influence and print journalism at its midcentury height. It\u2019s a seedy, intoxicating tale that unfolds in Manhattan\u2019s backroom bar booths, and it features brain-searing performances from Tony Curtis as Sidney Falco, a bottom-feeding gossip monger, and Burt Lancaster as J.J. Hunsecker, a towering, corrupt newspaper columnist. The dialogue is snappy and delicious; the morals are as empty as Times Square at dawn\u2014Dave Calhoun"
-    },
-    {
-        "id": 96,
-        "title": "The Cabinet of Dr. Caligari (1920)",
-        "image": "https://media.timeout.com/images/105456075/750/562/image.jpg",
-        "rank": 96,
-        "summary": "This German Expressionist masterpiece came out in 1920, a long time before the invention of the spoiler warning. We only hope that audience members instinctively knew not to give away cinema\u2019s first ever twist ending and ruin the sting of this fractured horror-fable for their pals. Director Robert Wiene conjured up something truly dark and lingering from its shadows: You can feel Dr. Caligari\u2019s influence in everything from Tim Burton\u2019s movies to Shutter Island.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 97,
-        "title": "Nashville (1975)",
-        "image": "https://media.timeout.com/images/105456076/750/562/image.jpg",
-        "rank": 97,
-        "summary": "This multilayered epic of country music, politics and relationships is Robert Altman\u2019s signature achievement. With its overlapping dialogue and roving camera, Nashville created an earthy, idiosyncratic panorama of American life, featuring many of the most memorable actors of the decade. The 1970s were U.S. cinema\u2019s most exciting period, and Nashville\u2014broadened by its admirable scope and freewheeling energy\u2014is emblematic of that creativity.\u2014Abbey Bender"
-    },
-    {
-        "id": 98,
-        "title": "Don\u2019t Look Now (1973)",
-        "image": "https://media.timeout.com/images/105456077/750/562/image.jpg",
-        "rank": 98,
-        "summary": "Nicolas Roeg influenced and inspired a generation of filmmakers, from Danny Boyle to Steven Soderbergh\u00a0\u2013 and here\u2019s why. Roeg shrouds Daphne du Maurier\u2019s short story in an icy chill, seeding the idea of supernatural forces at play in a wintry Venice through sheer filmmaking craft and the power of his editing. He finds a deep humanity in the horror, too, with Julie Christie and Donald Sutherland\u2019s grieving parents reconnecting and drifting apart like flotsam on some invisible tide. His masterpiece, Don\u2019t Look Now remains\u00a0a primal cry of grief that shakes you to\u00a0the core.\u2014Phil de Semlyen"
-    },
-    {
-        "id": 99,
-        "title": "Bonnie and Clyde (1967)",
-        "image": "https://media.timeout.com/images/105456078/750/562/image.jpg",
-        "rank": 99,
-        "summary": "Arthur Penn\u2019s game-changing action film was made in the same spirit of the revisionist Westerns of the \u201960s and \u201970s\u2014irreverent, fun, morally all over the place, and unafraid of blood and bullets. The movie takes us back to the 1930s during the legendary crime spree of lovers Bonnie Parker (Faye Dunaway) and Clyde Barrow (Warren Beatty), careening around Depression-era America and robbing it blind. Why did this film resonate so well at the end of its decade? With the Vietnam War, inner-city rioting and Nixon on the rise, all bets were off. Add the swoony pair of Beatty and Dunaway, and you\u2019ve got a classic on your hands: a revolution in period dress.\u2014Dave Calhoun"
-    },
-    {
-        "id": 100,
-        "title": "Get Out (2017)",
-        "image": "https://media.timeout.com/images/103574045/750/562/image.jpg",
-        "rank": 100,
-        "summary": "Watch this space: Jordan Peele\u2019s newly minted horror classic is sure to rise in the rankings. Taking cues from grand master George A. Romero and his counterculture-defining Night of the Living Dead, Peele infused white liberal guilt with a scary racial subtext; the \u201csunken place\u201d is precisely the kind of metaphor that only horror movies can exploit to the fullest. During its theatrical run\u2014which stretched into a summer that also saw the white-supremacist Charlottesville rally\u2014Get Out felt like the only movie speaking to a deepening divide.\u2014Joshua Rothkopf"
-    }
+	{
+		"id": 1,
+		"title": "2001: A Space Odyssey (1968)",
+		"image": "https://media.timeout.com/images/105455969/750/562/image.jpg",
+		"rank": 1,
+		"summary": "The greatest film ever made began with the meeting of two brilliant minds: Stanley Kubrick and sci-fi seer Arthur C Clarke. \u2018I understand he\u2019s a nut who lives in a tree in India somewhere,\u2019 noted Kubrick when Clarke\u2019s name came up \u2013 along with those of Isaac Asimov, Robert A Heinlein and Ray Bradbury \u2013 as a possible writer for his planned sci-fi epic. Clarke was actually living in Ceylon (not in India, or a tree), but the pair met, hit it off, and forged a story of technological progress and disaster (hello, HAL) that\u2019s steeped in humanity, in all its brilliance, weakness, courage and mad ambition. An audience of stoners, wowed by its eye-candy Star Gate sequence and pioneering visuals, adopted it as a pet movie. Were it not for them, 2001 might have faded into obscurity, but it\u2019s hard to imagine it would have stayed there. Kubrick\u2019s frighteningly clinical vision of the future \u2013 AI and all \u2013 still feels prophetic, more than 50 years on.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 2,
+		"title": "The Godfather (1972)",
+		"image": "https://media.timeout.com/images/105455970/750/562/image.jpg",
+		"rank": 2,
+		"summary": "From the wise guys of Goodfellas to The Sopranos, all crime dynasties that came after The Godfather are descendants of the Corleones: Francis Ford Coppola\u2019s magnum opus is the ultimate patriarch of the Mafia genre. A monumental opening line (\u201cI believe in America\u201d) sets the operatic Mario Puzo adaptation in motion, before Coppola\u2019s epic morphs into a chilling dismantling of the American dream. The corruption-soaked story follows a powerful immigrant family grappling with the paradoxical values of reign and religion; those moral contradictions are crystallized in a legendary baptism sequence, superbly edited in parallel to the murdering of four rivaling dons. With countless iconic details\u2014a horse\u2019s severed head, Marlon Brando\u2019s wheezy voice, Nino Rota\u2019s catchy waltz\u2014The Godfather\u2019s authority lives on.\u2014Tomris Laffly"
+	},
+	{
+		"id": 3,
+		"title": "Citizen Kane (1941)",
+		"image": "https://media.timeout.com/images/105455971/750/562/image.jpg",
+		"rank": 3,
+		"summary": "Back in the headlines thanks to David Fincher\u2019s brilliantly acerbic making-of drama Mank, Citizen Kane always finds a way to renew itself for a new generation of film lovers. For newbies, the journey of its bulldozer of a protagonist \u2013 played with inexhaustible force by actor-director-wunderkind Orson Welles \u2013 from unloved child to thrusting entrepreneur to press baron to populist feels entirely au courant (in unconnected news, Donald Trump came out as a superfan). You can bathe in the film\u2019s groundbreaking techniques, like Gregg Toland\u2019s deep-focus photography, or the limitless self-confidence of its staging and its investigation of American capitalism. But it\u2019s also just a damn good story that you definitely don\u2019t need to be a hardened cineaste to enjoy.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 4,
+		"title": "Jeanne Dielman, 23, Quai du Commerce, 1080 Bruxelles (1975)",
+		"image": "https://media.timeout.com/images/105455972/750/562/image.jpg",
+		"rank": 4,
+		"summary": "Long considered a feminist masterpiece, Chantal Akerman\u2019s quietly ruinous portrait of a widow\u2019s daily routine\u2014her chores slowly yielding to a sense of pent-up frustration\u2014should take its rightful place on any all-time list. This is not merely a niche film, but a window onto a universal condition, depicted in a concentrated structuralist style. More hypnotic than you may realize, Akerman\u2019s uninterrupted takes turn the simple acts of dredging veal or cleaning the bathtub into subtle critiques of moviemaking itself. (Pointedly, we never see the sex work Jeanne schedules in her bedroom to make ends meet.) Lulling us into her routine, Akerman and actor Delphine Seyrig create an extraordinary sense of sympathy rarely matched by other movies. Jeanne Dielman represents a total commitment to a woman\u2019s life, hour by hour, minute by minute. And it even has a twist ending.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 5,
+		"title": "Raiders of the Lost Ark (1981)",
+		"image": "https://media.timeout.com/images/105455973/750/562/image.jpg",
+		"rank": 5,
+		"summary": "Starting with a dissolve from the Paramount logo and ending in a warehouse inspired by Citizen Kane, Raiders of the Lost Ark celebrates what movies can do more joyously than any other film. Intricately designed as a tribute to the craft, Steven Spielberg\u2019s funnest blockbuster has it all: rolling boulders, a barroom brawl, a sparky heroine (Karen Allen) who can hold her liquor and lose her temper, a treacherous monkey, a champagne-drinking villain (Paul Freeman), snakes (\u201cWhy did it have to be snakes?\u201d), cinema\u2019s greatest truck chase and a barnstorming supernatural finale where heads explode. And it\u2019s all topped off by Harrison Ford\u2019s pitch-perfect Indiana Jones, a model of reluctant but resourceful heroism (look at his face when he shoots that swordsman). In short, it\u2019s cinematic perfection.\u2014Ian Freer"
+	},
+	{
+		"id": 6,
+		"title": "La Dolce Vita (1960)",
+		"image": "https://media.timeout.com/images/105456105/750/562/image.jpg",
+		"rank": 6,
+		"summary": "Made in the middle of Italy\u2019s boom years, Federico Fellini\u2019s runaway box-office hit came to define heated glamour and celebrity culture for the entire planet. It also made Marcello Mastroianni a star; here, he plays a gossip journalist caught up in the frenzied, freewheeling world of Roman nightlife. Ironically, the movie\u2019s portrayal of this milieu as vapid and soul-corrodingly hedonistic appears to have passed many viewers by. Perhaps that\u2019s because Fellini films everything with so much cinematic verve and wit that it\u2019s often hard not to get caught up in the delirious happenings onscreen. So much of how we view fame still dates back to this film; it even gave us the word paparazzi.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 7,
+		"title": "Seven Samurai (1954)",
+		"image": "https://media.timeout.com/images/101714537/750/562/image.jpg",
+		"rank": 7,
+		"summary": "It\u2019s the easiest 207 minutes of cinema you\u2019ll ever sit through. On the simplest of frameworks\u2014a poor farming community pools its resources to hire samurai to protect them from the brutal bandits who steal its harvest\u2014Akira Kurosawa mounts a finely drawn epic, by turns absorbing, funny and exciting. Of course the action sequences stir the blood\u2014the final showdown in the rain is unforgettable\u2014but this is really a study in human strengths and foibles. Toshiro Mifune is superb as the half-crazed self-styled samurai, but it\u2019s Takashi Shimura\u2019s Yoda-like leader who gives the film its emotional center. Since replayed in the Wild West (The Magnificent Seven), in space (Battle Beyond the Stars) and even with animated insects (A Bug\u2019s Life), the original still reigns supreme.\u2014Ian Freer"
+	},
+	{
+		"id": 8,
+		"title": "In the Mood for Love (2000)",
+		"image": "https://media.timeout.com/images/105455977/750/562/image.jpg",
+		"rank": 8,
+		"summary": "Can a film really be an instant classic? Anyone who watched In The Mood for Love when it was released in 2000 may have said yes. The second this love story opens, you sense you are in the hands of a master. Wong Kar-wai guides us through the narrow streets and stairs of \u201960s Hong Kong and into the lives of two neighbors (Maggie Cheung and Tony Leung) who discover their spouses are having an affair. As they imagine\u2014and partly reenact\u2014how their partners might be behaving, they fall for each other while remaining determined to respect their wedding vows. Loaded with longing, the film benefits from no less than three cinematographers, who together create an intense sense of intimacy, while the faultless performances shiver with sexual tension. This is cinema.\u2014Anna Smith"
+	},
+	{
+		"id": 9,
+		"title": "There Will Be Blood (2007)",
+		"image": "https://media.timeout.com/images/105455978/750/562/image.jpg",
+		"rank": 9,
+		"summary": "On the road to becoming the most significant filmmaker of the last 20 years, Paul Thomas Anderson transformed from a Scorsesian chronicler of debauched L.A. life into a hard-nosed investigator of the American confidence man. The pivotal point was There Will Be Blood, an epic about a certain kind of hustler\u2014the oil baron and prospector. Daniel Plainview is, in the final analysis, an ultra-scary Daniel Day-Lewis who will drink your milkshake. Scored by Radiohead\u2019s Jonny Greenwood (himself emerging as a major composer), Anderson\u2019s mournful epic is the true heir to Chinatown\u2019s bone-deep cynicism. As Phantom Thread makes clear, Anderson hasn\u2019t lost his sense of humor, not by a long shot. But there once was a moment when he needed to get serious, and this is it.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 10,
+		"title": "Singin\u2019 in the Rain (1952)",
+		"image": "https://media.timeout.com/images/105455980/750/562/image.jpg",
+		"rank": 10,
+		"summary": "\nForget The Artist\u2014sorry Uggie\u2014and relish instead the sheer, serotonin-enhancing verve of MGM\u2019s glorious epitaph to cinema\u2019s silent era. Its trio of dancers\u2014rubber-faced (and heeled) Donald O\u2019Connor, sparkling newcomer Debbie Reynolds and co-director and headline act Gene Kelly\u2014are a triple threat, nailing the stellar songs, intricate and physically demanding dance routines and selling all the comic beats with consummate skill. But kudos also belongs to Betty Comden and Adolph Green, whose effervescent screenplay provides the beat for the spectacle to move to, and Jessica Hagen, whose often-overlooked turn as croaky silent star Lina Lamont is the movie\u2019s funny-sad counterpoint. Not forgetting co-director Stanley Donen, who was always happy to let his stars take the credit but deserves an equal share for a musical that never puts a foot wrong.\u2013Phil de Semlyen"
+	},
+	{
+		"id": 11,
+		"title": "Goodfellas (1990)",
+		"image": "https://media.timeout.com/images/105536435/750/562/image.jpg",
+		"rank": 11,
+		"summary": "\u2018As far back as I can remember, I always wanted to be a gangster.\u2019 Ray Liotta\u2019s opening line is the crime movie equivalent of \u2018Once upon a time\u2026\u2019, and what follows is Martin Scorsese\u2019s version of a fairy tale \u2013 the story of a starry-eyed Brooklyn kid who realises his boyhood dream and still comes out a schnook in the end. Based on the true life of mobster Henry Hill, Goodfellas was born in the shadow of The Godfather, but as the years go on, the question of which is more influential becomes mostly a matter of generation. Certainly, the former is more easily rewatchable, owing to its breakneck pacing \u2013 its two and a half hours (and three decades) just whiz by. And for a movie about violent career criminals, it\u2019s also strangely relatable. Where Coppola went inside the walls of organised crime\u2019s one percent, Scorsese\u2019s gangsters are more blue collar. And as it turns out, working for the mafia isn\u2019t much different than any other job - you spend 30 years busting your hump to climb the ladder, only to end up face down on a bloody carpet in some tacky house in the burbs. \u2014 Matthew Singer\u00a0"
+	},
+	{
+		"id": 12,
+		"title": "North by Northwest (1959)",
+		"image": "https://media.timeout.com/images/102240155/750/562/image.jpg",
+		"rank": 12,
+		"summary": "There\u2019s no other thriller as elegant, light-touched and sexy as Hitchcock\u2019s silken caper. Cary Grant\u2019s suavely hollow adman Roger O. Thornhill (\u201cWhat does the O. stand for?\u201d \u201cNothing.\u201d) is Don Draper with a sense of humor, which he sorely needs when he contracts a bad case of Wrong Man\u2013itis. The set pieces, the villains, Eva Marie Saint\u2019s femme fatale, Saul Bass\u2019s credits, Bernard Herrmann\u2019s musical cues\u2014somehow the film manages to be even more than the sum of its glorious parts. Oh, and somewhere in there, Thornhill even manages to find his soul.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 13,
+		"title": "Mulholland Drive (2001)",
+		"image": "https://media.timeout.com/images/105455983/750/562/image.jpg",
+		"rank": 13,
+		"summary": "Not many movies are known equally for a genuinely erotic lesbian sex scene and a heart-stopping jump scare involving some kind of terrifying trash witch. Then again, this is David Lynch we\u2019re talking about: the man\u2019s entire career is dedicated to doing things most other filmmakers wouldn\u2019t even consider. But Mulholland Drive is where the phrase \u2018Lynchian\u2019 earned its definition. What appears, at first, to be a relatively straightforward noir about a gorgeous amnesiac (Laura Harring) trying to piece together the mystery of her own identity plunges, in its third act, into a hallucinatory dream world, effectively undoing everything that came before. The hairpin turn frustrated some critics, who apparently anticipated a movie that would explain itself in the end. Fans knew better \u2013 and for those willing to accept the movie as an experience, rather than a riddle to be solved, it\u2019s a gift that reveals new pleasures (and nightmares) with each viewing. \u2014Matthew Singer"
+	},
+	{
+		"id": 14,
+		"title": "Bicycle Thieves (1948)",
+		"image": "https://media.timeout.com/images/103262825/750/562/image.jpg",
+		"rank": 14,
+		"summary": "Vittorio de Sica\u2019s Neorealist masterpiece is set in a world where owning a bicycle is the key to working, but it could just as easily be set in one where the absence of car, or affordable childcare, or a home, or a social security number are insurmountable barriers in the constant slog to put food on the table. That\u2019s what makes simultaneously it a film for postwar Italy and modern-day anywhere-at-all. That\u2019s what makes it such a powerful, enduring landmark in humanist cinema. You can feel it in virtually every social drama you care to mention, from Ken Loach to Kelly Reichardt.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 15,
+		"title": "The Dark Knight (2008)",
+		"image": "https://media.timeout.com/images/105455985/750/562/image.jpg",
+		"rank": 15,
+		"summary": "There\u2019s a new Batman in Gotham, in the shadowy form of Matt Reeves\u2019s The Batman \u2013 and this is the bar it has to clear. The middle entry in Christopher Nolan\u2019s Bat-trilogy is an almost flawless case study of how to do a sophisticated superhero epic for modern audiences \u2013 and\u00a0the \u2018almost\u2019 is only because the final act refreshingly tries to cram in almost too many ideas, much moral arithmetic. Heath Ledger\u2019s Joker, meanwhile, redefines big-screen villainy: It\u2019s not enough to be sinister,\u00a0you\u00a0need a party trick now too.\u2014Phil de Semlyen\u00a0"
+	},
+	{
+		"id": 16,
+		"title": "City Lights (1931)",
+		"image": "https://media.timeout.com/images/104103046/750/562/image.jpg",
+		"rank": 16,
+		"summary": "Charlie Chaplin\u2019s total vision remains awe-inspiring: He wrote, directed, produced, edited and starred in his own movies, which he also scored with an orchestra. And when those cameras were rolling, they captured a self-made icon with a global audience. Still, City Lights was something else. Chaplin,\u00a0reluctant to give up the visual techniques he\u2019d mastered, insisted on making his new comedy a silent film even as viewers were growing thirsty for sound. As ever, the star had the last laugh: Not only was the film a huge commercial success, it also ended on the most heartbreaking close-up in cinema history\u2014the peak of the reaction shot (since cribbed by movies from La Strada to The Purple Rose of Cairo), no dialogue required.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 17,
+		"title": "Grand Illusion (1937)",
+		"image": "https://media.timeout.com/images/105455987/750/562/image.jpg",
+		"rank": 17,
+		"summary": "There\u2019s never a bad time to revisit one of Jean Renoir\u2019s great masterpieces (along with The Rules of the Game), but this current era of populists, nationalists and shouty rabble-rousers feels like a particularly good one. Set in a German POW camp during WWI, the film lays bare the fault lines of class and nationality among a group of French prisoners and their German captors and comes to the conclusion that all that really matters is man\u2019s nobility toward his fellow man.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 18,
+		"title": "His Girl Friday (1940)",
+		"image": "https://media.timeout.com/images/100385899/750/562/image.jpg",
+		"rank": 18,
+		"summary": "Calling this one the peak of screwball comedy may be too limiting: Among the many topflight movies directed by journeyman filmmaker Howard Hawks, His Girl Friday is his most romantic and most verbose (the constant banter feels like foreplay). Though the laconic Hawks would downplay his own proto-feminism throughout his life, the film is also his most liberated; strong women who had jobs and ran with newshounds were simply what he wanted to see. Most wonderfully, this comedy best celebrates the rule of wit: He\u2014or, more often, she\u2014with the sharpest tongue wins. If you love words, you\u2019ll love this movie.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 19,
+		"title": "The Red Shoes (1948)",
+		"image": "https://media.timeout.com/images/105455989/750/562/image.jpg",
+		"rank": 19,
+		"summary": "You could stick nearly every Powell and Pressburger film on this list; such was the dynamic duo\u2019s stellar output. But for our money\u2014and that of superfan Martin Scorsese\u2014this dazzling ballet-set romance is first among equals. It's a perfect expression of artists\u2019 drive to create, set in a lush Technicolor world shot by the great Jack Cardiff. Scorsese describes it as \u201cthe movie that plays in my heart.\u201d We\u2019ll take two seats at the back.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 20,
+		"title": "Vertigo (1958)",
+		"image": "https://media.timeout.com/images/105455990/750/562/image.jpg",
+		"rank": 20,
+		"summary": "A sexy Freudian mind-bender that\u2019s often considered Alfred Hitchcock\u2019s finest triumph, Vertigo is pitched in a world of existential obsession and cunning doubles. Shape-shifting her way through Edith Head\u2019s transformational costumes, Kim Novak haunts in two roles: Madeleine Elster and Judy Barton, both objects of desire for James Stewart\u2019s curious ex-cop. Completing this vivid psychodrama is Bernard Herrmann\u2019s alarmingly duplicitous score, which twists its way to a towering finale.\u2014Tomris Laffly"
+	},
+	{
+		"id": 21,
+		"title": "Beau Travail (1999)",
+		"image": "https://media.timeout.com/images/105455991/750/562/image.jpg",
+		"rank": 21,
+		"summary": "Increasingly a giant of world cinema, France\u2019s Claire Denis continues to confound expectations, making movies in sync with her own offbeat rhythms and thematic preoccupations (colonialism, power, repressed attraction). This one, her celebrated breakout, is something of a spin on Herman Melville\u2019s Billy Budd\u2014but that\u2019s like calling Jaws something of a spin on Moby-Dick. The genius is in Denis\u2019s technique, manifesting itself in images of shattering emotional precision: sinewy silhouettes of soldiers, abstract tests of will in the desert and, most ravishingly, the euphoria of breaking into dance, courtesy of a loose-limbed Denis Lavant and Corona\u2019s \u2018Rhythm of the Night\u2019.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 22,
+		"title": "The Searchers (1956)",
+		"image": "https://media.timeout.com/images/105455992/750/562/image.jpg",
+		"rank": 22,
+		"summary": "Showing some personal growth as well as filmmaking craft, John Ford makes some amends for his appearance in DW Griffith\u2019s virulently racist The Birth of a Nation with this landmark western. It\u2019s a story of hatred slowing giving way to compassion that strips away the toxic myths of the old frontier via the swaggering but broken-down figure of Ethan Edwards (John Wayne). Edwards is no white-hatted Shane type, but an embittered war veteran who hunts his own niece (Natalie Wood) with the intention of killing her for the crime of have been assimilated with the Comanche. The shot of Edwards framed in that doorway is one of the most famous \u2013 and most mimicked \u2013 in cinema.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 23,
+		"title": "Persona (1966)",
+		"image": "https://media.timeout.com/images/105455993/750/562/image.jpg",
+		"rank": 23,
+		"summary": "Ingmar Bergman\u2019s psychologically raw output has the potency to turn mere film fans into raging addicts; Persona is the hard stuff, a double-sided psychodrama that somehow feels like it was shot last weekend with two of Ingy\u2019s coolest friends (Bibi Andersson and Liv Ullmann, both revelatory). For its intimacy and economy alone, the film feels like a preview of the scrappy decade to come. Bergman, recovering from a serious bout of pneumonia, wrote the script in the hospital, grappling with a crisis of purpose that he turned into art of the highest caliber.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 24,
+		"title": "Do the Right Thing (1989)",
+		"image": "https://media.timeout.com/images/105455994/750/562/image.jpg",
+		"rank": 24,
+		"summary": "Spike Lee\u2019s bitterly funny, ultimately tragic fresco of a Brooklyn neighborhood during one sweltering summer day was hugely controversial at the time: Critics dinged Lee for his depiction of an uprising in the wake of a police killing. The movie has lost none of its relevance or power; if anything, it\u2019s gained some. But the filmmaking is what makes this a classic, particularly the energy, wit and style with which Lee presents this microcosm and the social forces at play inside it.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 25,
+		"title": "Rashomon (1950)",
+		"image": "https://media.timeout.com/images/105455995/750/562/image.jpg",
+		"rank": 25,
+		"summary": "It\u2019s no exaggeration to say that Akira Kurosawa\u2019s Rashomon redefined cinematic storytelling. With its shifting, unreliable narrative structure\u2014in which four people give differing accounts of a murder\u2014the film is remarkably daring and serves as a reminder of how form itself can beguile us. Flashbacks have never been so thrillingly deployed; nearly 70 years after its release, filmmakers are still trying to catch up to its achievements.\u2014Abbey Bender"
+	},
+	{
+		"id": 26,
+		"title": "The Rules of the Game (1939)",
+		"image": "https://media.timeout.com/images/105455996/750/562/image.jpg",
+		"rank": 26,
+		"summary": "Jean Renoir cemented his virtuosity with this pitch-perfect study of social-strata eruptions among the ditzy, idle rich, about to be blown sideways by WWII. Affairs among aristocrats and servants alike bloom during a weeklong hunting trip at a country manor, where the only crime is to trade frivolity with sincerity. Renoir captures his sparklingly astute ensemble cast with fluid, deep-focus camera movements, innovations that inspired directors from Orson Welles to Robert Altman.\u2014Stephen Garrett"
+	},
+	{
+		"id": 27,
+		"title": "Jaws (1975)",
+		"image": "https://media.timeout.com/images/105455997/750/562/image.jpg",
+		"rank": 27,
+		"summary": "Steven Spielberg\u2019s immortal blockbuster doesn\u2019t need political prescience to stay relevant: it\u2019s a movie about a big-ass shark eating people. Thanks in large part to the film itself, that\u2019s one irrational fear the public is never letting go of. Over the last two years, though, whenever some elected official has argued against mask mandates and\u00a0said it\u2019s time to reopen schools, it\u2019s been hard not to think about Mayor Vaughn in his goofy anchor-print suit telling the citizens of Amity Island that it\u2019s safe to go back in the water. And that element \u2013 along with the masterful pacing, the get-you-every-time jump scares and that banger of a third act \u2013 is what really makes Jaws forever frightening: sharks are scary, but greed and incompetence are far more likely to get you. \u2014\u00a0Matthew Singer \u00a0"
+	},
+	{
+		"id": 28,
+		"title": "Double Indemnity (1944)",
+		"image": "https://media.timeout.com/images/105455998/750/562/image.jpg",
+		"rank": 28,
+		"summary": "The deliciously dark, stylish genre of film noir simply wouldn\u2019t exist without Double Indemnity. This one truly has it all: flashbacks, murder, shadows and cigarettes galore, and, of course, a devious femme fatale (Barbara Stanwyck). As one of the great directors of Hollywood\u2019s golden age, Billy Wilder excelled across a variety of cinematic types, but this hard-boiled gem is his most influential work.\u2014Abbey Bender"
+	},
+	{
+		"id": 29,
+		"title": "The 400 Blows (1959)",
+		"image": "https://media.timeout.com/images/105455999/750/562/image.jpg",
+		"rank": 29,
+		"summary": "The first in a five-film autobiographical series, Francois Truffaut\u2019s The 400 Blows is the story of Antoine Doinel (Jean-Pierre L\u00e9aud)\u2014stuck in an unhappy home life but finding solace in goofing off, smoking and hanging with his friends\u2014and it\u2019s cinema\u2019s greatest evocation of a troubled childhood. Plus, it\u2019s the perfect primer to get kids into subtitled movies.\u2014Ian Freer"
+	},
+	{
+		"id": 30,
+		"title": "Star Wars (1977)",
+		"image": "https://media.timeout.com/images/105456000/750/562/image.jpg",
+		"rank": 30,
+		"summary": "Popcorn pictures hit hyperdrive after George Lucas unveiled his intergalactic Western, an intoxicating gee-whiz space opera with dollops of Joseph Campbell\u2013style mythologizing that obliterated the moral complexities of 1970s Hollywood. This postmodern movie-brat pastiche references a virtual syllabus of genre classics, from Metropolis and Triumph of the Will to Kurosawa\u2019s samurai actioners, Flash Gordon serials and WWII thrillers like The Dam Busters. Luke Skywalker\u2019s quest to rescue a princess instantly elevated B-movie bliss to billion-dollar-franchise sagas.\u2014Stephen Garrett"
+	},
+	{
+		"id": 31,
+		"title": "The Passion of Joan of Arc (1928)",
+		"image": "https://media.timeout.com/images/105456001/750/562/image.jpg",
+		"rank": 31,
+		"summary": "Carl Theodor Dreyer\u2019s classic tale of the trial of Joan of Arc is somehow both austere and maximalist. The director shows restraint with setting and scope; the film focuses largely on the back-and-forth between Joan and her inquisitors. But the intense close-ups give free reign to Maria Falconetti\u2019s marvelously expressive turn as the doomed Maid of Orleans. Made at the close of the silent era, it set new standards in screen acting.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 32,
+		"title": "Once Upon a Time in the West (1968)",
+		"image": "https://media.timeout.com/images/105456002/750/562/image.jpg",
+		"rank": 32,
+		"summary": "The ultimate cult film, Leone\u2019s spaghetti Western is set in a civilizing America\u2014though mostly shot in Rome and Spain\u2014but the real location is an abstract frontier of old versus new, of larger-than-life heroes fading into memory. It\u2019s a triumph of buried political commentary and purest epic cinema. Henry Fonda\u2019s icy stare, composer Ennio Morricone\u2019s twangy guitars of doom and the monumental Charles Bronson as the last gunfighter (\u201can ancient race\u2026\u201d) are just three reasons of a million to saddle up.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 33,
+		"title": "Alien (1979)",
+		"image": "https://media.timeout.com/images/105456003/750/562/image.jpg",
+		"rank": 33,
+		"summary": "If all it did was to launch a franchise centered on Sigourney Weaver\u2019s fierce survivor (still among the toughest action heroines of cinema), Ridley Scott\u2019s claustrophobic, deliberately paced sci-fi-horror classic would still be cemented in the film canon. But Alien claims masterpiece status with its subversive gender politics (this is a movie that impregnates men), its shocking chestburster centerpiece and industrial designer H.R. Giger\u2019s strangely elegant double-jawed creature, a nightmarish vision of hostility\u2014and one of cinema\u2019s most unforgettable pieces of pure craft.\u2014Tomris Laffly"
+	},
+	{
+		"id": 34,
+		"title": "Tokyo Story (1951)",
+		"image": "https://media.timeout.com/images/105456004/750/562/image.jpg",
+		"rank": 34,
+		"summary": "Simply spun, Yasujiro Ozu\u2019s domestic drama is small but perfectly formed. Chishu Ryu and Chieko Higashiyama are dignified and moving as parents who visit their children and grandchildren, only to be neglected. Delicately played, beautifully shot (often with the camera hovering just off the ground), Ozu\u2019s masterpiece is the family movie given grandeur and intimacy. If you loved last year\u2019s Shoplifters, you\u2019ll love this.\u2014Ian Freer"
+	},
+	{
+		"id": 35,
+		"title": "Pulp Fiction (1994)",
+		"image": "https://media.timeout.com/images/105456005/750/562/image.jpg",
+		"rank": 35,
+		"summary": "Like Nirvana and The Sopranos in their respective mediums, Quentin Tarantino\u2019s second feature arrived in the waning years of the 20th century and felt, at once, like a culmination of cinema\u2019s first hundred or so years and an explosion of everything we thought we knew about film.\u00a0 A gangster flick where the gangsters chat about cheeseburgers and enter twist contests at kitschy diners? Where the narrative is like a smashed jigsaw puzzle put back together out of order? With the guy from Look Who\u2019s Talking starring as a slick-talking, suit-wearing hitman? That\u2019s a movie that can make money, win Oscars and spin off so many imitators it\u2019s practically a genre unto itself? Turns out, it could; it just took an over-caffeinated ex-video store clerk with the right amount of irrational confidence to make it happen. The end result is a film preserved in an amber of eternal cool \u2013 when the aliens come pick over the remains of our decimated planet and discover a VHS copy among the rubble, they\u2019ll agree that John Travolta was the perfect casting choice, Samuel L Jackson is the baddest motherfucker on the planet and the true contents of the briefcase really don\u2019t matter. \u2014Matthew Singer"
+	},
+	{
+		"id": 36,
+		"title": "The Truman Show (1998)",
+		"image": "https://media.timeout.com/images/101630177/750/562/image.jpg",
+		"rank": 36,
+		"summary": "The late \u201990s spawned two prescient satires of reality TV, back when it was still in its pre-epidemic phase: the underrated EDtv and, this, Peter Weir\u2019s profound statement on the way the media has its claws in us. In some ways a kinder, gentler version of Network, The Truman Show is a TV parable in which a meek hero (Jim Carrey) wins back his life. It can also be considered an angrier film, slamming both the controlling TV networks (represented by Ed Harris\u2019s messiahlike Christof) and us, the viewing public, for making a game show of other people\u2019s lives.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 37,
+		"title": "Lawrence of Arabia (1962)",
+		"image": "https://media.timeout.com/images/135315/750/562/image.jpg",
+		"rank": 37,
+		"summary": "Notions of masculinity, conflicted sexuality and tribal identity (or lack of it) boil beneath the surface of David Lean\u2019s historical epic like magma. They seeps through the cracks of its depiction of iconoclastic Edwardian nomad and Arab leader T E Lawrence (Peter O\u2019Toole), locating its huge set pieces within the megalomaniac compass of its hero and lending depth to its intimate moments when the cost of all is laid bare. Amid its sweeping Arabian landscapes, famously captured by cinematographer Freddie Young\u2019s cameras, it\u2019s the interior landscape of Lawrence himself that this great biopic maps out so memorably.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 38,
+		"title": "Psycho (1960)",
+		"image": "https://media.timeout.com/images/105456008/750/562/image.jpg",
+		"rank": 38,
+		"summary": "Alfred Hitchcock had made a few scary movies earlier in his career, but Psycho was something completely different \u2013 not just for his personal oeuvre, or the horror genre, but movies in general. Shoot, some have even argued that it changed society as a whole. That discussion can fill a book \u2013 and it has \u2013 but for the purposes of this list, its contributions to cinema more than suffice. May we count the ways? It invented the modern slasher flick. It anticipated the moral ambiguity that would become de rigueur in the New Hollywood of the \u201870s. It upturned the established rules of narrative, killing off the supposed heroine midway through, in unprecedentedly shocking fashion. It also showed a toilet in use for the first time. Sure, there are other filmmakers who can claim to have covered some of that ground first; Michael Powell\u2019s Peeping Tom, in fact, arrived a few months earlier and hit on many of the same themes. The difference with Hitch is he knew how to\u00a0transmit new ideas to the widest possible audience. He didn\u2019t just break the rules \u2013 he rewrote the manual. And horror directors are still reading from it today. \u2014Matthew Singer"
+	},
+	{
+		"id": 39,
+		"title": "Sansho the Bailiff (1954)",
+		"image": "https://media.timeout.com/images/105456009/750/562/image.jpg",
+		"rank": 39,
+		"summary": "Japanese cinema has produced no shortage of heavy hitters, but director Kenji Mizoguchi may deserve prime of place. He was able to turn out impeccable ghost stories (Ugetsu) and backstage dramas (The Story of the Last Chrysanthemums), but his greatest trait was a deep, unshakable empathy for women, beaten down by the patriarchy but heartbreaking in their suffering. These women are central to Sansho the Bailiff, a feudal tale of familial dissolution that will wreck you. Make no apologies for your tears; everyone else will be crying, too.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 40,
+		"title": "Andrei Rublev (1966)",
+		"image": "https://media.timeout.com/images/105456010/750/562/image.jpg",
+		"rank": 40,
+		"summary": "Mournful, challenging and mesmerizing, Soviet director Andrei Tarkovsky\u2019s epic portrait of the life and times of one of Russia\u2019s most famous medieval icon painters foregrounds qualities such as landscape and mood over story and character. Ultimately, it\u2019s the tale of a man\u2019s attempt to overcome his crisis of faith in a world that seems to have an endless supply of violence and strife\u2014and it\u2019s a remarkable testament to the persistence of artists working under oppressive regimes.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 41,
+		"title": "The Umbrellas of Cherbourg (1964)",
+		"image": "https://media.timeout.com/images/105456011/750/562/image.jpg",
+		"rank": 41,
+		"summary": "The melancholy of Michel Legrand\u2019s glorious score washes over viewers\u2019 hearts from the first moment of Jacques Demy\u2019s nontraditional, sung-through musical. One of the most romantic films ever made about the pains and purity of first love, the immaculately styled The Umbrellas of Cherbourg challenged the lighter Hollywood musicals of the era (like The Sound of Music and My Fair Lady) and launched the sensational Catherine Deneuve into international stardom. Later, it would be a major influence on La La Land.\u2014Tomris Laffly"
+	},
+	{
+		"id": 42,
+		"title": "Chinatown (1974)",
+		"image": "https://media.timeout.com/images/105456012/750/562/image.jpg",
+		"rank": 42,
+		"summary": "Director Roman Polanski and screenwriter Robert Towne took a modestly sleazy noir setup and turned it into a meditation on the horrors of American history and rapacious capitalism. The film also sports a perfect cast, with a top-of-his-game Jack Nicholson as a cynical private eye, an impossibly alluring Faye Dunaway as the femme fatale with a past so dark her final revelation still shocks, and the legendary John Huston as the monstrous millionaire at the heart of it all.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 43,
+		"title": "The Seventh Seal (1957)",
+		"image": "https://media.timeout.com/images/105456013/750/562/image.jpg",
+		"rank": 43,
+		"summary": "Not just any film gets homaged by Bill and Ted. But Ingmar Bergman\u2019s great treatise on mortality isn\u2019t just any film. Despite becoming somehow synonymous with \u201cdifficult art-house statement,\u201d it\u2019s not all weighty themes, plague-strewn landscapes and chess games with the Grim Reaper. As Max von Sydow\u2019s medieval knight travels the land witnessing the apocalypse, loads of life-affirming moments lighten the load. Of course, it\u2019s a work of profound philosophical thought, too, so you\u2019ll feel brainier for having seen it.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 44,
+		"title": "Lost in Translation (2003)",
+		"image": "https://media.timeout.com/images/100653879/750/562/image.jpg",
+		"rank": 44,
+		"summary": "Worlds collide in Sofia Coppola's pitch-perfect tale of a movie star (Bill Murray) and a newlywed (Scarlett Johansson) in Tokyo. Coppola approaches each of her characters with a warmth and sensitivity that exudes from the screen\u2014and ensures that \u201cBrass in Pocket\u201d will remain a karaoke favorite around the world (pink wig optional). Why has the film endured so vividly in viewers\u2019 hearts? Maybe because it captures those gloriously melancholic moments we\u2019ve all experienced that seem to be gone in a flash, yet linger forever.\u2014Anna Smith"
+	},
+	{
+		"id": 45,
+		"title": "Taxi Driver (1976)",
+		"image": "https://media.timeout.com/images/105456015/750/562/image.jpg",
+		"rank": 45,
+		"summary": "A time capsule of a vanished New York and a portrait of twisted masculinity that still stings, Taxi Driver stands at the peak of the vital, gritty auteur-driven filmmaking that defined 1970s New Hollywood. Martin Scorsese\u2019s vision of vigilantism is filled with an uncomfortable ambience, and Paul Schrader\u2019s screenplay probes philosophical depths that are brought to vicious life by Robert De Niro\u2019s unforgettable performance.\u2014Abbey Bender"
+	},
+	{
+		"id": 46,
+		"title": "Spirited Away (2001)",
+		"image": "https://media.timeout.com/images/105456016/750/562/image.jpg",
+		"rank": 46,
+		"summary": "The jewel in Japanese animation studio Studio Ghibli\u2019s crown, Spirited Away is a glorious bedtime story filled with soot sprites, monsters and phantasms\u2014it\u2019s a movie with the power to coax out the inner child in the most grown-up and jaded among us. A spin on Alice's Adventures in Wonderland (with the same invitation to follow your imagination), Spirited Away has been ushering audiences into its dream world for almost two decades and seems only to grow in stature each year, a tribute to its hand-drawn artistry. Trivia time: It remains Japan\u2019s highest-grossing film ever, just ahead of Titanic.\u2014Anna Smith"
+	},
+	{
+		"id": 47,
+		"title": "Night of the Living Dead (1968)",
+		"image": "https://media.timeout.com/images/105456017/750/562/image.jpg",
+		"rank": 47,
+		"summary": "The first no-budget horror movie to become a bona-fide calling card for its director, George A. Romero\u2019s seminal frightfest begins with a single zombie in a graveyard and builds to an undead army attacking a secluded house. Most modern horror clich\u00e9s start here. But nothing betters it for style, mordant wit, racial and political undertow, and scaring the bejesus out of you, all some 50 years before Us.\u2014Ian Freer"
+	},
+	{
+		"id": 48,
+		"title": "Battleship Potemkin (1925)",
+		"image": "https://media.timeout.com/images/105456020/750/562/image.jpg",
+		"rank": 48,
+		"summary": "This rousing Russian silent film was conceived in the heat of Soviet propaganda and commissioned by the still-young Communist government to salute an event from 20 years earlier. It tells of a sailors\u2019 revolt that morphs into a full-blown workers\u2019 uprising in the city of Odessa; the movie is most famous for one breathtaking sequence\u2014much copied and parodied since\u2014of a baby carriage tumbling down a huge flight of steps. But Battleship Potemkin is full of powerful images and heady ideas, and director Sergei Eisenstein is rightly considered one of the pioneers of early film language, with his influence felt through the decades.\u2014Dave Calhoun"
+	},
+	{
+		"id": 49,
+		"title": "Modern Times (1936)",
+		"image": "https://media.timeout.com/images/105456022/750/562/image.jpg",
+		"rank": 49,
+		"summary": "The only Charlie Chaplin movie to see the Little Tramp go on a massive cocaine binge, this relentlessly inventive silent classic hardly needs the added kick. The gags come almost as fast as you can process them, with the typically pinpoint Chaplin slapstick conjured here from scenarios that seem purpose-built to end in disaster. The sight of Chaplin literally feeding himself into a massive machine offers a still-germane satire on technological advancement.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 50,
+		"title": "Breathless (1960)",
+		"image": "https://media.timeout.com/images/105456023/750/562/image.jpg",
+		"rank": 50,
+		"summary": "Film critic Jean-Luc Godard\u2019s seismic directing debut is a bravado deconstruction of the gangster picture that also reinvented moviemaking itself. It features Cubistic jump cuts, restless handheld camerawork, location shoots, eccentric pacing (the 24-minute centerpiece is two lovers talking in a bedroom), and self-conscious asides about painting, poetry, pop culture, literature and film. A sexy fling between petty thief Jean-Paul Belmondo and Sorbonne-bound gamine Jean Seberg morphs into an oddly touching, existential meditation. It\u2019s pulp fiction, but alchemically profound.\u2014Stephen Garrett"
+	},
+	{
+		"id": 51,
+		"title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)",
+		"image": "https://media.timeout.com/images/105456025/750/562/image.jpg",
+		"rank": 51,
+		"summary": "So much of Stanley Kubrick\u2019s genius was conceptual, and this one asks his most audacious question: What if the world came to an end\u2014and it was hilarious? Nuclear annihilation was a subject in which Kubrick immersed himself, reading virtually every unclassified text. His conclusion was grim: There would be no winning. Via darkest comedy (the only way into the subject) and an unhinged Peter Sellers playing three separate parts, Kubrick made his point.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 52,
+		"title": "M (1931)",
+		"image": "https://media.timeout.com/images/105456026/750/562/image.jpg",
+		"rank": 52,
+		"summary": "One of those epochal films\u2014there\u2019s only a handful\u2014that sits on the divide between silent cinema and the sound era but taps into the virtues of both, Fritz Lang\u2019s serial-killer thriller burns with deep-etched visual darkness while perking ears with its whistled \u201cIn the Hall of the Mountain King\u201d (performed by a purse-lipped Lang himself; his star, Peter Lorre, couldn\u2019t whistle). The movie\u2019s theme is vigilance: We must protect our children, but who will protect society from itself? M is like a sonar listening to a pre-Nazi Germany on the cusp of shedding its humanity.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 53,
+		"title": "Blade Runner",
+		"image": "https://media.timeout.com/images/105456027/750/562/image.jpg",
+		"rank": 53,
+		"summary": "Set in (eek!) 2019, Ridley Scott\u2019s vision of a dystopian future is one of the most stylish sci-fi films of all time. With a noir-inspired aesthetic and a haunting synth score by Vangelis (a massive influence on Prince), Blade Runner is iconic not just for its era-defining look, but also for its deeper philosophical examination of what it means to be human. Many have tried to imitate the film\u2019s uncanny vibe, but these rain-slicked streets and seedy vistas possess a singular menace.\u2014Abbey Bender"
+	},
+	{
+		"id": 54,
+		"title": "The Bitter Tears of Petra von Kant (1972)",
+		"image": "https://media.timeout.com/images/105456028/750/562/image.jpg",
+		"rank": 54,
+		"summary": "The creative fecundity of Rainer Werner Fassbinder, dead from an overdose at age 37 after completing more than 40 features, deserves enshrinement by a new generation. This film is arguably his sharpest and most psychologically complex; inarguably, it\u2019s his bitchiest. There is so much to love in Fassbinder\u2019s shag-carpeted showdown, which goes beyond the spectacle of two dueling fashionistas into a profound exploration of aging and obsolescence.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 55,
+		"title": "Rome, Open City (1945)",
+		"image": "https://media.timeout.com/images/105456029/750/562/image.jpg",
+		"rank": 55,
+		"summary": "Few film movements can boast the hit rate of Italian neorealism, a post-WWII wave dedicated to working-class struggle that seems to comprise only masterpieces. Robert Rossellini was responsible for a few of them, including Germany Year Zero and this earlier drama of repression and resistance, which boasts not one but two of the most memorable death scenes in all of cinema.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 56,
+		"title": "Nosferatu (1922)",
+		"image": "https://media.timeout.com/images/105456202/750/562/image.jpg",
+		"rank": 56,
+		"summary": "Brace for the land of phantoms and the call of the Bird of Death: One of the earliest (though unauthorized) adaptations of Dracula is still the most terrifying. Max Schreck\u2019s insectlike performance as the bloodthirsty Count Orlok is just as transfixing and repulsive as it was almost a century ago. German Expressionist director F.W. Murnau\u2019s haunting images of a crepuscular world set the chilling standard for generations of cinematic nightmares.\u2014Stephen Garrett"
+	},
+	{
+		"id": 57,
+		"title": "Airplane! (1980)",
+		"image": "https://media.timeout.com/images/105456031/750/562/image.jpg",
+		"rank": 57,
+		"summary": "With about 6,500 zingers to choose from, everyone has their favorite Airplane! gag. Directors David and Jerry Zucker and their partner in extreme silliness, Jim Abrahams, truly threw the kitchen sink at this dizzying spoof of the \u201970s disaster movies that were all the rage at the time. Onscreen comedy, in turn, was modernized for what would be its most transforming decade. Our favorite joke? \u201cLooks like I picked the wrong week to quit amphetamines.\u201d\u2014Phil de Semlyen"
+	},
+	{
+		"id": 58,
+		"title": "Under the Skin (2013)",
+		"image": "https://media.timeout.com/images/105456032/750/562/image.jpg",
+		"rank": 58,
+		"summary": "Hypnotic, bewitching, thought-provoking, disturbing, horrifying: However you react to it, you won't forget Jonathan Glazer's startling adaptation of Michel Faber's woman-who-fell-to-earth novel. Using her celebrity in a radical way, Scarlett Johansson is perfectly cast as an alien in human form who roams Glasgow trying to pick up men in her van. It was shot guerrilla-style on the streets of the Scottish city, so look out for the footage of genuinely baffled passersby.\u2014Anna Smith"
+	},
+	{
+		"id": 59,
+		"title": "Mad Max: Fury Road (2015)",
+		"image": "https://media.timeout.com/images/105456033/750/562/image.jpg",
+		"rank": 59,
+		"summary": "Both a sequel and a reboot, the fourth entry in director George Miller\u2019s series of post-apocalyptic gearhead epics fuses death-defying stunts with modern special effects to give us one of the all-time-great action movies. This one is a nonstop barrage of chases, each more spectacularly elaborate and nightmarish than the last\u2014but it\u2019s all combined with Miller\u2019s surreal, poetic sensibility, which sends it into the realm of art.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 60,
+		"title": "Apocalypse Now (1979)",
+		"image": "https://media.timeout.com/images/105456034/750/562/image.jpg",
+		"rank": 60,
+		"summary": "Francis Ford Coppola\u2019s evergreen Vietnam War classic proves war is swell, as assassin Martin Sheen heads upriver to kill renegade colonel Marlon Brando. En route, there\u2019s surfing, a thrilling helicopter raid, napalm smelling, tigers and Playboy bunnies, until Sheen steps off the boat and into a different zone of madness\u2014or is it genius? Who knows at this point?\u2014Ian Freer"
+	},
+	{
+		"id": 61,
+		"title": "Brokeback Mountain (2005)",
+		"image": "https://media.timeout.com/images/105456035/750/562/image.jpg",
+		"rank": 61,
+		"summary": "Forget what the Oscars crowned as the Best Picture of 2005: Ang Lee\u2019s tragic gay romance is the nominee that stands the test of time. Anchored by Rodrigo Prieto\u2019s swoonworthy cinematography and a wistful Heath Ledger (whose performance toppled societal perceptions of masculinity), Brokeback Mountain is a milestone in LGBTQ art-house cinema. It reimagined the Western genre and became a part of the zeitgeist.\u2014Tomris Laffly"
+	},
+	{
+		"id": 62,
+		"title": "Duck Soup (1933)",
+		"image": "https://media.timeout.com/images/105456037/750/562/image.jpg",
+		"rank": 62,
+		"summary": "Biting political satires don't have to be long and complicated: This 68-minute masterpiece is perfectly pithy, exposing the absurdities of international politics with swift wit and spot-on slapstick. Often regarded as the funniest of the Marx Brothers\u2019 oeuvre, the film is also\u2014sadly\u2014timeless, as its portrayal of a war-mongering dictatorship remains relevant to this day.\u2014Anna Smith"
+	},
+	{
+		"id": 63,
+		"title": "The Blair Witch Project (1999)",
+		"image": "https://media.timeout.com/images/105456036/750/562/image.jpg",
+		"rank": 63,
+		"summary": "In 1997, a group of no-name actors went into the Maryland backwoods with some handheld cameras, a loose script and a budget that wouldn\u2019t cover the catering on most of the other films on this list, and emerged with a blockbuster. Perhaps no movie in history has ever achieved more with less than Daniel Myrick and Eduardo S\u00e1nchez\u2019s atmospheric horror classic. For years, though, The Blair Witch Project was discussed as a triumph of marketing more than anything else. It was pushed by an ad campaign that played coy with the veracity of the allegedly \u2018found footage\u2019: did an amateur documentary crew really disappear in the woods while investigating a local myth? Sheer curiosity drove audiences to theatres en masse \u2013 and it wasn\u2019t uncommon to leave a screening and overhear confused grumbling in the lobby. Twenty-plus years and an oversaturation of lesser imitators later, it\u2019s easier to appreciate Blair Witch as a master class of low-budget cinema. Honestly, if there\u2019s a scarier scene in the last two decades than when those children\u2019s hands imprint on the crew\u2019s tent in the middle of night, it surely cost a hell of a lot more to make."
+	},
+	{
+		"id": 64,
+		"title": "All the President\u2019s Men (1976)",
+		"image": "https://media.timeout.com/images/105456038/750/562/image.jpg",
+		"rank": 64,
+		"summary": "Many movies have been made depicting journalism as it happens. Vanishingly few get the process right, and even fewer manage to convey the obsessiveness, the anxious frustration and the exhilaration of chasing a big story. Alan J Pakula\u2019s movie about two reporters chasing the biggest story in American political history nails every beat. The achievement is especially remarkable considering that, at the time, the story could barely even be considered history: Nixon had resigned from office not even two years prior. But that nearness lends the film a living energy that would\u2019ve dulled with additional hindsight. Even with its unspoilable ending, Pakula and screenwriter William Goldman still managed to build an uncommonly nervy thriller that never digresses from the central narrative. No, you won\u2019t get much of an idea of who Woodward and Bernstein (played with typical \u201970s naturalism by Dustin Hoffman and Robert Redford) are apart from their work. Instead, you just see the work \u2013 and in this case, that\u2019s more than enough.\u00a0\u2014Matthew Singer"
+	},
+	{
+		"id": 65,
+		"title": "The Apu trilogy (1955, 1956, 1959)",
+		"image": "https://media.timeout.com/images/105456040/750/562/image.jpg",
+		"rank": 65,
+		"summary": "We\u2019re cheating by including all three films (Pather Panchali, Aparajito and The World of Apu), but really, how do you separate the installments of Satyajit Ray\u2019s magnificent coming-of-age trilogy? The Bengali great follows young Apu (Apurba Kumar Roy) from boyhood to adult life via schooling and a move from his remote village to the big city, as well as loves and losses. Some of the most intimate Indian cinema ever captured, it\u2019s also completely relatable, whether you hail from Kolkata, Kansas or Camden Town.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 66,
+		"title": "The General (1926)",
+		"image": "https://media.timeout.com/images/105456041/750/562/image.jpg",
+		"rank": 66,
+		"summary": "Boy meets train. Boy loses train. Boy chases Union forces who stole train, wins back train and fires off in the opposite direction. It may not sound like your average love story, but that\u2019s exactly what Buster Keaton\u2019s deadpan and death-defying silent comedy is: a majestic demonstration of trick photography, balletic courage and comic timing, all underpinned by genuine heart. Trust us, it\u2019s loco-motional.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 67,
+		"title": "Eternal Sunshine of the Spotless Mind (2004)",
+		"image": "https://media.timeout.com/images/105456042/750/562/image.jpg",
+		"rank": 67,
+		"summary": "There are countless movies about romantic relationships, yet few explore the subject more creatively than Michel Gondry\u2019s breakthrough, scripted by Charlie Kaufman (who was then becoming a household name with Being John Malkovich and Adaptation). The sci-fi\u2013inflected tale of two halves of a broken-up couple going through a memory-erasing procedure takes many surprising, poignant turns; the film\u2019s impeccably executed combination of authentically quirky imagery and philosophical inquiry has become a signpost of modern independent cinema.\u2014Abbey Bender"
+	},
+	{
+		"id": 68,
+		"title": "The Texas Chain Saw Massacre (1974)",
+		"image": "https://media.timeout.com/images/105456043/750/562/image.jpg",
+		"rank": 68,
+		"summary": "The title is still a killer piece of marketing, suggesting something much gorier than what you get. That\u2019s not to say Tobe Hooper\u2019s masterpiece doesn\u2019t deliver. A grungy vision of horror captured during a palpably sweaty and stenchy Texas summer, the film has taken its rightful place as a definitive parable of Nixonian class warfare, eat-or-be-eaten social envy and the essentially unknowable nature of some unlucky parts of the world.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 69,
+		"title": "Come and See (1985)",
+		"image": "https://media.timeout.com/images/105456044/750/562/image.jpg",
+		"rank": 69,
+		"summary": "As unsparing as cinema gets, the influence of Elem Klimov\u2019s sui generis war movie transcends the genre in a way that not even Steven Spielberg\u2019s Saving Private Ryan can match. At its heart it\u2019s a coming-of-age story that follows a young Belarusian boy (Aleksei Kravchenko) through unspeakable horror as Nazi death squads visit an apocalypse on his region. Alongside its historical truths, the film\u2019s grammar and visual language\u2014there are passages that play like an ultra-violent acid trip\u2014are what truly elevates it. Like an Hieronymus Bosch masterpiece, the images here can never be unseen.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 70,
+		"title": "Heat (1995)",
+		"image": "https://media.timeout.com/images/105456045/750/562/image.jpg",
+		"rank": 70,
+		"summary": "Writer-director Michael Mann\u2019s heist masterpiece put two of our greatest actors, Robert De Niro and Al Pacino, together onscreen for the first time\u2014one as a stoic master criminal, the other as the obsessive cop determined to bring him down. In weaving their stories together, Mann presents dueling but equally weighted perspectives, with our allegiance as viewers constantly shifting. The last word on cops-and-robbers movies, it\u2019s suffused with a magic that crime thrillers try to recapture to this day.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 71,
+		"title": "The Shining (1980)",
+		"image": "https://media.timeout.com/images/105456047/750/562/image.jpg",
+		"rank": 71,
+		"summary": "Our list doesn\u2019t lack for Stanley Kubrick movies (nor should it). Still, it\u2019s shocking to remember that The Shining\u2014so redolent of the director\u2019s pet themes of mazelike obsession and the banality of evil\u2014was once considered a minor work. It\u2019s since come to represent the most concentrated blast of Kubrick\u2019s total command; he\u2019s the god of the film, Steadicam-ing around corners and making the audience notice that he was born to redefine horror. Even if we can\u2019t roll with the crackpot fan theories about how Kubrick allegedly faked the Apollo moon landing, we\u2019ll readily admit that this film contains cosmic multitudes.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 72,
+		"title": "Toy Story (1995)",
+		"image": "https://media.timeout.com/images/105456048/750/562/image.jpg",
+		"rank": 72,
+		"summary": "The one that got Pixar\u2019s (Luxo) ball rolling and still an absolute high-water mark for CG animation, Toy Story reinvented what a family movie could be. On the surface, it\u2019s a simple story about a couple of miniature rivals sizing each other up (Woody was originally going to be a whole mess meaner), before falling into peril at the hands of next-door pyrotechnics genius Sid. But it\u2019s also about jealousy, power dynamics and our relationships with our own childhoods. With it, Pixar took storytelling to infinity and far, far beyond.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 73,
+		"title": "Killer of Sheep (1977)",
+		"image": "https://media.timeout.com/images/105456049/750/562/image.jpg",
+		"rank": 73,
+		"summary": "Shot on 16-millimeter film in sketchy light, Charles Burnett\u2019s UCLA graduate thesis film stitches together seemingly mundane vignettes to form a compelling mosaic of late-\u201970s African-American life. A landmark of independent black cinema, it\u2019s set to a great soundtrack ranging from blues and classical to Paul Robeson. Poetic, compassionate, angry, ironic: All human life is present here.\u2014Ian Freer"
+	},
+	{
+		"id": 74,
+		"title": "A Woman Under the Influence (1974)",
+		"image": "https://media.timeout.com/images/105456050/750/562/image.jpg",
+		"rank": 74,
+		"summary": "There\u2019s a tendency in these greatest-of-all-time exercises to prioritize the director, the camerawork or the screenplay. But respect must be paid to the performer, too: In a decade of brilliant acting, no turn was quite as galvanizing as the one given by Gena Rowlands in this stunning peek into a fraying mind. A fluky Los Angeles housewife and mother who\u2019s constantly being told to calm down, Rowlands\u2019s Mabel is the apotheosis of John Cassavetes\u2019s improvisatory cinema; our concern for her never flags as she teeters through excruciating scenes of breakdown and regrouping.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 75,
+		"title": "Annie Hall (1977)",
+		"image": "https://media.timeout.com/images/105456052/750/562/image.jpg",
+		"rank": 75,
+		"summary": "Quotable, endearing and bursting with creative moments, Annie Hall is one of the most revolutionary of romantic comedies. This quintessential New York movie turned countless viewers on to the joys of verbose dialogue (and experimentation in menswear for women), and has long been lauded for both its accessibility and its poignancy, a balance that few movies have since achieved so memorably.\u2014Abbey Bender"
+	},
+	{
+		"id": 76,
+		"title": "Some Like It Hot (1959)",
+		"image": "https://media.timeout.com/images/105456054/750/562/image.jpg",
+		"rank": 76,
+		"summary": "Clocking it at number 15 on our list of the 100 Greatest Comedies Ever Made, Billy Wilder\u2019s classic gangster farce plays like Scarface on helium. Tony Curtis and Jack Lemmon make one of cinema\u2019s most delightful double acts as a couple of musicians on the run from the Mob, but Marilyn Monroe steals the picture as the coquettish, breathy and entirely loveable Sugar. Nobody\u2019s perfect but this movie gets pretty darn close.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 77,
+		"title": "Metropolis (1927)",
+		"image": "https://media.timeout.com/images/105456056/750/562/image.jpg",
+		"rank": 77,
+		"summary": "Hugely expensive for its time, Metropolis is Blade Runner, The Terminator and Star Wars all rolled into one (not to mention 50 years prior). Fritz Lang\u2019s silent vision of a totalitarian society still astounds through its stunning cityscapes, groundbreaking special effects and a bewitchingly evil robot (Brigitte Helm). It\u2019s science fiction at its most ambitious and breathtaking\u2014the not-so-modest beginnings of onscreen genre seriousness.\u2014Ian Freer"
+	},
+	{
+		"id": 78,
+		"title": "The Maltese Falcon (1941)",
+		"image": "https://media.timeout.com/images/105456057/750/562/image.jpg",
+		"rank": 78,
+		"summary": "The accepted wisdom is that the noir era really kicked off during the hard-bitten post-WWII years, which makes John Huston\u2019s adaptation of Dashiell Hammett's detective novel a real trailblazer. It\u2019s a template for the swathe of noir flicks that would follow, offering up a jaded-but-noble gumshoe in Humphrey Bogart\u2019s Sam Spade, a femme fatale (Mary Astor), a couple of shifty villains (Sydney Greenstreet, Peter Lorre) and a labyrinthine plot that drags you around by the nose. If the movie were any more hard-boiled, you\u2019d crack your teeth on it.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 79,
+		"title": "This Is Spinal Tap (1984)",
+		"image": "https://media.timeout.com/images/105456058/750/562/image.jpg",
+		"rank": 79,
+		"summary": "Exploding drummers, amps that go to 11, tiny Stonehenges, \u201cDobly\u201d: This spoof rock documentary\u2014rockumentary, if you must\u2014is monumentally influential on cinema, cringe comedy and, possibly, the music industry itself. (There\u2019s not a band out there without at least one Spinal Tap moment to its name.) Christopher Guest, Michael McKean and Harry Shearer are comic royalty, and we can only genuflect in their presence; shortly after this film, Guest kicked off his own directorial brand of humor, directly inspired by Rob Reiner\u2019s heavy-metal satire.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 80,
+		"title": "It Happened One Night (1934)",
+		"image": "https://media.timeout.com/images/105456059/750/562/image.jpg",
+		"rank": 80,
+		"summary": "If only Hollywood made \u2019em like they used to: crackling romantic comedies that conquered the Oscars. Frank Capra\u2019s hilarious hate-at-first-sight love story is still one of the fastest movies ever made. Claudette Colbert\u2019s spoiled heiress and Clark Gable\u2019s opportunistic reporter hit the road and bicker their way toward a happily-ever-after ending, class barriers be damned. Not only did this smart and suggestively sexy pre-Code screwball shape every rom-com that followed, it still has a leg up on most of them.\u2014Tomris Laffly"
+	},
+	{
+		"id": 81,
+		"title": "Die Hard (1988)",
+		"image": "https://media.timeout.com/images/101681541/750/562/image.jpg",
+		"rank": 81,
+		"summary": "Let\u2019s get this out of the way: Die Hard is a Christmas movie. Deal with it. Another, less controversial statement about John McTiernan\u2019s blockbuster: it\u2019s the platonic ideal of an action movie, and Bruce Willis as wiseass New York cop John McClane is the coolest action hero of all-time. The sequels would stretch the limits of his charisma by getting bigger and stupider, but the original hits the perfect amount of big and brash, as McClane attempts to thwart the plans of a European terrorist group that\u2019s seized an LA high-rise and taken his wife hostage. But the truest reason Die Hard succeeds to the degree it does \u2013 aside from the cracking dialogue, spectacular stunts and small details, i.e. McClane being forced to fight a bunch of terrorists in his bare foot \u2013 is that McClane has the ideal foil in Alan Rickman\u2019s Hans Gruber, who might also be the best action movie villain of all-time, an erudite pseudo-revolutionary who makes it clear that he reads Forbes and doesn\u2019t much care for garrulous American cowboys."
+	},
+	{
+		"id": 82,
+		"title": "The Conformist (1970)",
+		"image": "https://media.timeout.com/images/105456061/750/562/image.jpg",
+		"rank": 82,
+		"summary": "In Mussolini\u2019s Italy, a repressed homosexual (Jean-Louis Trintignant) joins the Fascist party in order to blend in and hide his true self. Part psychoanalysis session, part colorful genre fantasia, director Bernardo Bertolucci\u2019s enormously influential drama journeys through different styles and aesthetics. As much as Orson Welles\u2019s Citizen Kane did with the films of the \u201920s, \u201930s, and early \u201940s, The Conformist offers a powerful compendium of cinematic techniques from the eras preceding it.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 83,
+		"title": "The Thing (1982)",
+		"image": "https://media.timeout.com/images/105456062/750/562/image.jpg",
+		"rank": 83,
+		"summary": "Let John Carpenter\u2019s real masterpiece\u2014the one that horror mavens bow down to\u2014take its place in the pantheon. A passion project that got clobbered by audiences and critics alike, The Thing was, in fact, that rarest of remakes: one that improves upon its source. Carpenter\u2019s widescreen elegance and spooky synth minimalism (here furthered by composer Ennio Morricone) found a new counterpoint in some of the most disgusting practical special effects ever sprung on a paying audience. But the film\u2019s ice-cold paranoia, uncut and pharma-grade, has been its most lasting legacy: a template of perfection for all since.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 84,
+		"title": "Daughters of the Dust (1991)",
+		"image": "https://media.timeout.com/images/105456063/750/562/image.jpg",
+		"rank": 84,
+		"summary": "Writer-director Julie Dash should have become an Ava DuVernay-level success after her poetic feature debut, an achievement of otherworldly beauty. The first film made by an African-American woman to receive theatrical distribution, Daughters of the Dust is permeated with pride, history and matriarchal wisdom. Set in 1902, it follows the Gullah, descendents of slaves living off the coast of South Carolina, who painfully reckon with their fading traditions. Singularly ahead of its time, Daughters mourns the enduring tragedy of enslavement. Its tranquil strength later found an echo in Beyonc\u00e9\u2019s Lemonade.\u2014Tomris Laffly"
+	},
+	{
+		"id": 85,
+		"title": "Barry Lyndon (1975)",
+		"image": "https://media.timeout.com/images/105456064/750/562/image.jpg",
+		"rank": 85,
+		"summary": "Back in 1975, Stanley Kubrick\u2019s somber adaptation of William Makepeace Thackeray\u2019s novel about a young Irishman\u2019s journey from lovestruck exile to cynical grifter in 18th-century Europe seemed out of step with the gritty, intense output of contemporary cinema. Years later, it\u2019s considered by many to be Kubrick\u2019s masterpiece, and its deliberate, highly aestheticized approach has influenced everybody from Ridley Scott to Yorgos Lanthimos.\u2014Bilge Ebiri"
+	},
+	{
+		"id": 86,
+		"title": "Raging Bull (1980)",
+		"image": "https://media.timeout.com/images/105456065/750/562/image.jpg",
+		"rank": 86,
+		"summary": "Martin Scorsese\u2019s hallucinogenic biography of the tenacious boxer Jake LaMotta (Robert De Niro) is a bold mash-up of neorealist grit and hyperstylized, gossamer beauty. Put on the gloves and LaMotta is in his element; take them off and he\u2019s an insecure sociopath consumed by sexual jealousy. De Niro\u2019s monstrous portrayal is miraculously empathetic, but what\u2019s truly revolutionary is Scorsese\u2019s technique: Like a modern-day Verdi, the Italian-American auteur elevates the profane to the operatic.\u2014Stephen Garrett"
+	},
+	{
+		"id": 87,
+		"title": "Seven (1995)",
+		"image": "https://media.timeout.com/images/105456066/750/562/image.jpg",
+		"rank": 87,
+		"summary": "David Fincher is the most signature director of his era: a crafter of iconic music videos and decade-defining dramas like Zodiac and The Social Network. But his transition to Hollywood was rocky; it was a town that barely understood him. The turning point was Seven, the first time that Fincher\u2019s fearsome vision arrived uncut. Stylistically, the dark movie (shot by an inspired Darius Khondji, working with a silver-nitrate-retention process) has proven more durable than even The Silence of the Lambs, but it\u2019s that meme-able sucker punch of an ending that still rattles audiences.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 88,
+		"title": "Aguirre, the Wrath of God (1972)",
+		"image": "https://media.timeout.com/images/105456067/750/562/image.jpg",
+		"rank": 88,
+		"summary": "Ever-overshadowed by the Herculean\u00a0feat that was Fitzcarraldo, Werner Herzog\u2019s other exploration of\u00a0male vainglory in the\u00a0remotest parts of\u00a0South America\u00a0applies\u00a0another coolly obversational lens to\u00a0the\u00a0malignant\u00a0madness of out-of-control obsession. It\u2019s colder, greedier here: Klaus Kinski\u2019s conquistador craves gold, not culture. Featuring a river journey, a haunting, synthy Popul Voh score and a bunch of taunting monkeys, it\u2019s Herzog\u2019s Apocalypse Now.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 89,
+		"title": "The Battle of Algiers (1966)",
+		"image": "https://media.timeout.com/images/105456068/750/562/image.jpg",
+		"rank": 89,
+		"summary": "Political thrillers still owe a debt to Gillo Pontecorvo\u2019s ever-timely tour de force. Recounting the Algerian uprising against French colonial occupiers in the 1950s, The Battle of Algiers boldly examines terrorism, racism and even torture as a means of intelligence-gathering. Screened at the Pentagon for its topical significance during the early phases of the Iraq War, Algiers has its rebellious legacy vested in numerous politically charged epics, from Z to Steven Spielberg\u2019s Munich.\u2014Tomris Laffly"
+	},
+	{
+		"id": 90,
+		"title": "Women on the Verge of a Nervous Breakdown (1988)",
+		"image": "https://media.timeout.com/images/105456069/750/562/image.jpg",
+		"rank": 90,
+		"summary": "Pedro Almod\u00f3var broke into the mainstream with this gloriously colorful ensemble comedy, an entry point for many into a style of smart, sexually liberated European cinema. Women on the Verge of a Nervous Breakdown offers juicy roles for a range of Spain\u2019s finest female actors (plus a charmingly baby-faced Antonio Banderas) and consistently delights with its creative choices in costuming and interior design. The combination of screwball dynamics and the garishness of the 1980s is perfectly calibrated and fun.\u2014Abbey Bender"
+	},
+	{
+		"id": 91,
+		"title": "Boyhood (2014)",
+		"image": "https://media.timeout.com/images/105462445/750/562/image.jpg",
+		"rank": 91,
+		"summary": "Shot over 12 years with a cast of actors that ages before our eyes, Richard Linklater\u2019s modern-day coming-of-age classic is a peerless artistic gamble, comparable only to Michael Apted\u2019s Up series and Francois Truffaut\u2019s Antoine Doinel films. Still, Boyhood\u2019s astonishing compactness catches you off guard like no other movie. Adorned by Linklater\u2019s signature effortless rhythms, the film bottles the fleeting spirit of time, maturing into a reflective meditation on life\u2019s ordinary moments.\u2014Tomris Laffly"
+	},
+	{
+		"id": 92,
+		"title": "The Discreet Charm of the Bourgeoisie (1972)",
+		"image": "https://media.timeout.com/images/105456071/750/562/image.jpg",
+		"rank": 92,
+		"summary": "Movies have always been a gateway into radical art; Hollywood may have made them sleek and accessible, but experimentation was there from the start. Luis Bu\u00f1uel counts among the top rank of dreamers to ever grace the field of filmmaking. Without him, there\u2019s no David Lynch, no Wong Kar-wai\u2014even Alfred Hitchcock was a fan. Of Bu\u00f1uel\u2019s many seismic features (don\u2019t skip his slicin\u2019-up-eyeballs short, \u201cUn Chien Andalou\u201d), begin with this radical satire of class warfare, which sums up everything he did well. It even won him an unlikely Oscar.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 93,
+		"title": "Paths of Glory (1957)",
+		"image": "https://media.timeout.com/images/105456072/750/562/image.jpg",
+		"rank": 93,
+		"summary": "An antiwar movie, a courtroom thriller, an upstairs-downstairs study of social status, a religious critique, an absurdist satire and, finally, a heartbreakingly futile plea for compassion in the face of destruction, Stanley Kubrick\u2019s humanist masterpiece dissects all the delusional facets of the male psyche. Battlegrounds abound\u2014psychological, emotional, physical\u2014making the bleakly entrenched soldiers of 1916, and the officers who confuse folly for fame, still feel painfully relevant.\u2014Stephen Garrett"
+	},
+	{
+		"id": 94,
+		"title": "Secrets & Lies (1996)",
+		"image": "https://media.timeout.com/images/105456073/750/562/image.jpg",
+		"rank": 94,
+		"summary": "Actors are the lifeblood of director Mike Leigh\u2019s famous process, a much-discussed method of workshopping, character exploration, group improvisation and collaborative writing. It can often be months before the camera rolls. The results have been consistently exquisite over the years, funneled into period musical-comedies (Topsy-Turvy) and brutal contemporary dramas (Naked) alike. We recommend Leigh\u2019s critical breakthrough, featuring nervy turns by Brenda Blethyn and Timothy Spall, as the perfect place to begin your deep dive.\u2014Joshua Rothkopf"
+	},
+	{
+		"id": 95,
+		"title": "Sweet Smell of Success (1957)",
+		"image": "https://media.timeout.com/images/105456074/750/562/image.jpg",
+		"rank": 95,
+		"summary": "This smoky, jazzy noir from director Alexander Mackendrick (The Ladykillers) is one of the great movies about power, influence and print journalism at its midcentury height. It\u2019s a seedy, intoxicating tale that unfolds in Manhattan\u2019s backroom bar booths, and it features brain-searing performances from Tony Curtis as Sidney Falco, a bottom-feeding gossip monger, and Burt Lancaster as J.J. Hunsecker, a towering, corrupt newspaper columnist. The dialogue is snappy and delicious; the morals are as empty as Times Square at dawn\u2014Dave Calhoun"
+	},
+	{
+		"id": 96,
+		"title": "The Cabinet of Dr. Caligari (1920)",
+		"image": "https://media.timeout.com/images/105456075/750/562/image.jpg",
+		"rank": 96,
+		"summary": "This German Expressionist masterpiece came out in 1920, a long time before the invention of the spoiler warning. We only hope that audience members instinctively knew not to give away cinema\u2019s first ever twist ending and ruin the sting of this fractured horror-fable for their pals. Director Robert Wiene conjured up something truly dark and lingering from its shadows: You can feel Dr. Caligari\u2019s influence in everything from Tim Burton\u2019s movies to Shutter Island.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 97,
+		"title": "Nashville (1975)",
+		"image": "https://media.timeout.com/images/105456076/750/562/image.jpg",
+		"rank": 97,
+		"summary": "This multilayered epic of country music, politics and relationships is Robert Altman\u2019s signature achievement. With its overlapping dialogue and roving camera, Nashville created an earthy, idiosyncratic panorama of American life, featuring many of the most memorable actors of the decade. The 1970s were U.S. cinema\u2019s most exciting period, and Nashville\u2014broadened by its admirable scope and freewheeling energy\u2014is emblematic of that creativity.\u2014Abbey Bender"
+	},
+	{
+		"id": 98,
+		"title": "Don\u2019t Look Now (1973)",
+		"image": "https://media.timeout.com/images/105456077/750/562/image.jpg",
+		"rank": 98,
+		"summary": "Nicolas Roeg influenced and inspired a generation of filmmakers, from Danny Boyle to Steven Soderbergh\u00a0\u2013 and here\u2019s why. Roeg shrouds Daphne du Maurier\u2019s short story in an icy chill, seeding the idea of supernatural forces at play in a wintry Venice through sheer filmmaking craft and the power of his editing. He finds a deep humanity in the horror, too, with Julie Christie and Donald Sutherland\u2019s grieving parents reconnecting and drifting apart like flotsam on some invisible tide. His masterpiece, Don\u2019t Look Now remains\u00a0a primal cry of grief that shakes you to\u00a0the core.\u2014Phil de Semlyen"
+	},
+	{
+		"id": 99,
+		"title": "Bonnie and Clyde (1967)",
+		"image": "https://media.timeout.com/images/105456078/750/562/image.jpg",
+		"rank": 99,
+		"summary": "Arthur Penn\u2019s game-changing action film was made in the same spirit of the revisionist Westerns of the \u201960s and \u201970s\u2014irreverent, fun, morally all over the place, and unafraid of blood and bullets. The movie takes us back to the 1930s during the legendary crime spree of lovers Bonnie Parker (Faye Dunaway) and Clyde Barrow (Warren Beatty), careening around Depression-era America and robbing it blind. Why did this film resonate so well at the end of its decade? With the Vietnam War, inner-city rioting and Nixon on the rise, all bets were off. Add the swoony pair of Beatty and Dunaway, and you\u2019ve got a classic on your hands: a revolution in period dress.\u2014Dave Calhoun"
+	},
+	{
+		"id": 100,
+		"title": "Get Out (2017)",
+		"image": "https://media.timeout.com/images/103574045/750/562/image.jpg",
+		"rank": 100,
+		"summary": "Watch this space: Jordan Peele\u2019s newly minted horror classic is sure to rise in the rankings. Taking cues from grand master George A. Romero and his counterculture-defining Night of the Living Dead, Peele infused white liberal guilt with a scary racial subtext; the \u201csunken place\u201d is precisely the kind of metaphor that only horror movies can exploit to the fullest. During its theatrical run\u2014which stretched into a summer that also saw the white-supremacist Charlottesville rally\u2014Get Out felt like the only movie speaking to a deepening divide.\u2014Joshua Rothkopf"
+	}
 ]

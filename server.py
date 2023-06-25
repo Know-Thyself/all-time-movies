@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 import requests
 from movie import Movie
 import json
-import sys
 
 app = Flask(__name__)
 
@@ -34,6 +33,7 @@ def scrap_web():
     with open("movies.json", "w") as file:
         file.write(jsonify)
 
+
 # To avoid repeated web scraping
 local_file = open("movies.json", "r")
 movies = json.load(local_file)
@@ -45,6 +45,6 @@ def home_page():
 
 
 if __name__ == "__main__":
+    app.run(debug=True)
     if not len(movies):
         scrap_web()
-    app.run(debug=True)
