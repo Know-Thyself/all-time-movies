@@ -18,7 +18,6 @@ def scrap_web():
     ]
 
     movies_lst = []
-
     # Creating a movie instance and list
     for i in range(100):
         temp_list = titles[i].text.split()
