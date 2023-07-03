@@ -17,26 +17,34 @@ def scrap_web():
         img.get("src") for img in images[1:] if not img.get("src").startswith("data")
     ]
 
-    movies = []
+    movies_lst = []
 
     # Creating a movie instance and list
     for i in range(100):
         temp_list = titles[i].text.split()
         title = " ".join(temp_list[1:])
         rank = int(temp_list[0].replace(".", ""))
-        image = images[i]
+        image = f'static/images/image_{rank}.jpg'
         summary = summaries[i].text
         movie = Movie(i + 1, title, image, rank, summary)
-        movies.append(vars(movie))
+        movies_lst.append(vars(movie))
+        # Downloading the actual binary image files
+        binary_image = requests.get(images[i]).content
+        with open(
+                f"static/images/image_{rank}.jpg",
+                "wb",
+        ) as jpeg_file:
+            jpeg_file.write(binary_image)
 
-    jsonify = json.dumps(movies, indent=4)
-    with open("movies.json", "w") as file:
+    jsonify = json.dumps(movies_lst, indent=4)
+    with open(f"movies.json", "w") as file:
         file.write(jsonify)
 
 
-# To avoid repeated web scraping
+# To avoid repetitive web scraping
 local_file = open("movies.json", "r")
 movies = json.load(local_file)
+local_file.close()
 
 
 @app.route("/")
