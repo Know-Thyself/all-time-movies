@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" type="text/css" href="static/styles.css" />
+		<title>All Time Movies</title>
+	</head>
+	<body>
+		<h1 class="header">100 All Time Movies</h1>
+        <div class="main_container">
+            {% for movie in movies: %}
+            <div class="movie_wrapper">
+                <h2 class="title">{{ movie.title }}</h2>
+                <img src="{{movie.image}}" alt="{{ movie.title }}"/>
+                <p class="summary">{{ movie.summary }}</p>
+            </div>
+            {% endfor %}
+        </div>
+	</body>
+</html>

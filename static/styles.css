@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+}
+
+.main_container {
+	width: 95%;
+	margin: auto;
+	display: flex;
+    justify-content: center;
+    align-items: first baseline;
+	flex-wrap: wrap;
+    gap: 2.5%;
+}
+
+.movie_wrapper {
+	width: 30%;
+}
+
+.movie_wrapper img {
+	width: 100%;
+	height: auto;
+}
+
+.title {
+    font-size: 1.25rem;
+}
