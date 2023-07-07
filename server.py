@@ -1,10 +1,22 @@
 from flask import Flask, render_template
+from flask_sqlalchemy import SQLAlchemy
+from os import path
 from bs4 import BeautifulSoup
 import requests
 from movie import Movie
 import json
 
+db = SQLAlchemy()
+DB_NAME = 'movies.db'
+
 app = Flask(__name__)
+app.config['SQLALCHEMY_DATABASE_URI'] = f'sqlite///{DB_NAME}'
+
+
+def create_database():
+    if not path.exists(DB_NAME):
+        with app.app_context():
+            db.create_all()
 
 
 def scrap_web():
@@ -55,3 +67,5 @@ if __name__ == "__main__":
     app.run(debug=True)
     if not len(movies):
         scrap_web()
+    db.init_app(app)
+    create_database()
