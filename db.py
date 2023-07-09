@@ -17,8 +17,15 @@ cur.execute(
 
 con.commit()
 
-cur.execute("SELECT * FROM movies")
+def add_record(title, year, image, rank, summary):
+    cur.execute(
+            "INSERT INTO movies VALUES(?, ?, ?, ?, ?)",
+            (title, year, image, rank, summary),
+        )
+    con.commit()
 
-movies = cur.fetchall()
-con.close()
-print("DB Created successfully!!!")
+def fetch_movies():
+    cur.execute("SELECT * FROM movies")
+    movies = cur.fetchall()
+    con.close()
+    return movies
