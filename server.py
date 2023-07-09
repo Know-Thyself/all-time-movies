@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import requests
 from movie import Movie
 import json
-from db import cur, con
+from db import cur, con, movies
 
 app = Flask(__name__)
 
@@ -31,7 +31,10 @@ def scrap_web():
         movie = Movie(i + 1, title, year, image, rank, summary)
         if year.isdigit():
             year = int(year)
-        cur.execute("INSERT INTO movies VALUES(?, ?, ?, ?, ?)", (title, year, image, rank, summary))
+        cur.execute(
+            "INSERT INTO movies VALUES(?, ?, ?, ?, ?)",
+            (title, year, image, rank, summary),
+        )
         con.commit()
         movies_lst.append(vars(movie))
         # Downloading the actual binary image files
@@ -47,11 +50,16 @@ def scrap_web():
         file.write(jsonify)
 
 
-
 # To avoid repetitive web scraping
-local_file = open("movies.json", "r")
-movies = json.load(local_file)
-local_file.close()
+# local_file = open("movies.json", "r")
+# movies = json.load(local_file)
+# local_file.close()
+
+# converting movies data from movies.db which is a list of tuples to a list of dicts
+movies = [
+    {"title": t, "year": y, "image": i, "rank": r, "summary": s}
+    for t, y, i, r, s in movies
+]
 
 
 @app.route("/")
@@ -63,4 +71,3 @@ if __name__ == "__main__":
     app.run(debug=True)
     if not movies:
         scrap_web()
-        con.close()
