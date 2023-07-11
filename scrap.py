@@ -43,4 +43,3 @@ def scrap_web():
     jsonify = json.dumps(movies_lst, indent=4)
     with open(f"movies.json", "w") as file:
         file.write(jsonify)
-        

@@ -17,12 +17,14 @@ cur.execute(
 
 con.commit()
 
+
 def add_record(title, year, image, rank, summary):
     cur.execute(
-            "INSERT INTO movies VALUES(?, ?, ?, ?, ?)",
-            (title, year, image, rank, summary),
-        )
+        "INSERT INTO movies VALUES(?, ?, ?, ?, ?)",
+        (title, year, image, rank, summary),
+    )
     con.commit()
+
 
 def fetch_movies():
     cur.execute("SELECT * FROM movies")

@@ -8,7 +8,7 @@ class Movie:
         self.summary = summary
 
     def __str__(self):
-        return f'{self.title} is a great movie that has been ranked {self.rank} in the alltime top 100 movies.'
+        return f"{self.title} is a great movie that has been ranked {self.rank} in the alltime top 100 movies."
 
     @classmethod
     def get(cls, m_id, title, year, img, rank, summary):
