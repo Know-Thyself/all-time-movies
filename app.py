@@ -25,4 +25,4 @@ def home_page():
 if __name__ == "__main__":
     if not movies:
         scrap_web()
-    app.run(debug=True)
+    app.run()
