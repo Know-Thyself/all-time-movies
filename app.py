@@ -2,11 +2,12 @@ from flask import Flask, render_template
 from db import fetch_movies
 from scrap import scrap_web
 from flask.helpers import send_from_directory
+from flask_cors import CORS, cross_origin
 # import shutil
 # shutil.copyfile('./static/images', '../react-frontend/public/images')
 
-app = Flask(__name__, static_folder='./react-frontend/build')
-
+app = Flask(__name__, static_folder='react-frontend/build')
+CORS(app)
 # Using fetched data or local file to avoid repetitive web scraping
 movies = fetch_movies()
 
@@ -22,11 +23,13 @@ formatted_movies = [
 
 
 @app.route("/movies")
+@cross_origin()
 def home_page():
     # return render_template("index.html", movies=formatted_movies)
     return formatted_movies
 
-
+@app.route("/")
+@cross_origin()
 def serve():
     return send_from_directory(app.static_folder, 'index.html')
 
