@@ -5,7 +5,7 @@ from flask.helpers import send_from_directory
 # import shutil
 # shutil.copyfile('./static/images', '../react-frontend/public/images')
 
-app = Flask(__name__, static_folder='../react-frontend/build')
+app = Flask(__name__, static_folder='./react-frontend/build')
 
 # Using fetched data or local file to avoid repetitive web scraping
 movies = fetch_movies()
@@ -19,8 +19,6 @@ formatted_movies = [
     {"title": t, "year": y, "image": i, "rank": r, "summary": s}
     for t, y, i, r, s in movies
 ]
-
-print(formatted_movies)
 
 
 @app.route("/movies")
