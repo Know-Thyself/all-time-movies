@@ -30,5 +30,5 @@ def add_record(title, year, image, rank, genre, summary):
 def fetch_movies():
     cur.execute("SELECT * FROM movies")
     movies = cur.fetchall()
-    con.close()
+    # con.close()
     return movies

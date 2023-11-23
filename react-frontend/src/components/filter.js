@@ -24,7 +24,7 @@ const genres = [
 	'Comedy',
 	'Drama',
 	'Horror',
-	'Hybrid Genre Film',
+	'Hybrid Genre',
 	'Science fiction',
 	'Thrillers',
 ]
