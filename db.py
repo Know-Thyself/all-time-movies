@@ -11,6 +11,7 @@ cur.execute(
     year INT,
     image TEXT,
     rank INT,
+    genre TEXT,
     summary TEXT
     )"""
 )
@@ -18,10 +19,10 @@ cur.execute(
 con.commit()
 
 
-def add_record(title, year, image, rank, summary):
+def add_record(title, year, image, rank, genre, summary):
     cur.execute(
-        "INSERT INTO movies VALUES(?, ?, ?, ?, ?)",
-        (title, year, image, rank, summary),
+        "INSERT INTO movies VALUES(?, ?, ?, ?, ?, ?)",
+        (title, year, image, rank, genre, summary),
     )
     con.commit()
 

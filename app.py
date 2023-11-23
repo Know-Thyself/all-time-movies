@@ -15,10 +15,9 @@ movies = fetch_movies()
 
 # converting movies data from movies.db which is a list of tuples to a list of dicts
 formatted_movies = [
-    {"title": t, "year": y, "image": i, "rank": r, "summary": s}
-    for t, y, i, r, s in movies
+    {"title": t, "year": y, "image": i, "rank": r, "genre": g, "summary": s}
+    for t, y, i, r, g, s in movies
 ]
-
 
 @app.route("/movies")
 @cross_origin()

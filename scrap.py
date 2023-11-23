@@ -10,6 +10,9 @@ def scrap_web():
     soup = BeautifulSoup(response, "html.parser")
     titles = soup.find_all(class_="_h3_cuogz_1")
     images = soup.find_all(name="img")
+    genres = soup.find_all("ul", class_="_tagsList_163gl_5")
+    # print(genres, '<------genres')
+    print(len(genres), '<---------length')
     summaries = soup.find_all(class_="_summary_kc5qn_21")
     images = [
         img.get("src") for img in images[1:] if not img.get("src").startswith("data")
@@ -23,17 +26,21 @@ def scrap_web():
         year = "".join(temp_list[-1][1:-1])
         rank = int(temp_list[0].replace(".", ""))
         image = f"images/image_{rank}.jpg"
+        if genres[i].text[4:]:
+            genre = genres[i].text[4:]
+        else:
+            genre = f"Hybrid Genre {genres[i].text[:4]}"
         summary = summaries[i].text
-        movie = Movie(i + 1, title, year, image, rank, summary)
+        movie = Movie(i + 1, title, year, image, rank, genre, summary)
         if year.isdigit():
             year = int(year)
         # Inserting record to database
-        add_record(title, year, image, rank, summary)
+        add_record(title, year, image, rank, genre, summary)
         movies_lst.append(vars(movie))
         # Downloading the actual binary image files
         binary_image = requests.get(images[i]).content
         with open(
-            f"../react-frontend/public/images/image_{rank}.jpg",
+            f"/react-frontend/public/images/image_{rank}.jpg",
             "wb",
         ) as jpeg_file:
             jpeg_file.write(binary_image)

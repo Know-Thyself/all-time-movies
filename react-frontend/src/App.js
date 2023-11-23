@@ -13,7 +13,7 @@ function App() {
 	}, [])
 	return (
 		<div className='App'>
-			<h1 className='heading'>100 All Time Movies</h1>
+			<h1 className='heading'>The 100 Best Movies of All Time</h1>
 			<Movies movies={movies} />
 		</div>
 	)
