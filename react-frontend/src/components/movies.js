@@ -1,12 +1,9 @@
-import React from 'react'
-
 const Movies = ({ movies }) => {
-	console.log(movies)
 	return (
-		<div className='main_container'>
+		<div className='main_container' key='movies'>
 			{movies.map(movie => (
-				<div className='movie_wrapper'>
-					<div className='image_wrapper'>
+				<div className='movie_wrapper' key={movie.id}>
+					<div className='image_wrapper' key={movie.id}>
 						<h2 className='title'>
 							{movie.rank}. {movie.title} ({movie.year})
 						</h2>
@@ -17,11 +14,10 @@ const Movies = ({ movies }) => {
 								title={movie.title}
 							/>
 							<figcaption>
-								<span>{movie.genre}</span>
+								<span className='genre'>{movie.genre}</span>
 							</figcaption>
 						</figure>
 					</div>
-
 					<p className='summary'>{movie.summary}</p>
 				</div>
 			))}

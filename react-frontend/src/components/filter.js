@@ -33,6 +33,7 @@ export default function MultipleSelectCheckmarksFilter({
 	movies,
 	setMovies,
 	backUpData,
+	isSearching,
 }) {
 	const [selectedGenre, setSelectedGenre] = React.useState([])
 
@@ -40,34 +41,31 @@ export default function MultipleSelectCheckmarksFilter({
 		const {
 			target: { value },
 		} = event
-		setSelectedGenre(
-			// On autofill we get a stringified value.
-			typeof value === 'string' ? value.split(',') : value
-		)
+		setSelectedGenre(typeof value === 'string' ? value.split(',') : value)
 	}
 
 	React.useEffect(() => {
-		if (selectedGenre.length) {
-			const selectedMovies = []
-			backUpData.forEach(movie => {
-				if (selectedGenre.includes(movie.genre)) {
-					selectedMovies.push(movie)
-				}
-			})
-			setMovies(selectedMovies)
-		} else {
-			setMovies(backUpData)
+		if (!isSearching) {
+			if (selectedGenre.length) {
+				const selectedMovies = []
+				backUpData.forEach(movie => {
+					if (selectedGenre.includes(movie.genre)) {
+						selectedMovies.push(movie)
+					}
+				})
+				setMovies(selectedMovies)
+			} else {
+				setMovies(backUpData)
+			}
 		}
-	}, [selectedGenre, movies, setMovies, backUpData])
+	}, [selectedGenre, movies, setMovies, backUpData, isSearching])
 
 	return (
 		<div className='dropdown'>
-			<FormControl sx={{ m: 1, width: 300 }}>
-				<InputLabel id='demo-multiple-checkbox-label'>
-					Filter by Genres
-				</InputLabel>
+			<FormControl sx={{ width: 300 }} size='small'>
+				<InputLabel id='select-genre'>Filter by Genres</InputLabel>
 				<Select
-					labelId='demo-multiple-checkbox-label'
+					labelId='select-genre'
 					id='demo-multiple-checkbox'
 					multiple
 					value={selectedGenre}
