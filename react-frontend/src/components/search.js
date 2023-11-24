@@ -12,6 +12,8 @@ const SearchBar = ({
 	setIsSearching,
 }) => {
 	const [searchInput, setSearchInput] = useState('')
+	const [shrink, setShrink] = useState(false)
+
 	const handleSearch = e => {
 		e.preventDefault()
 		setSearchInput(e.target.value)
@@ -49,12 +51,24 @@ const SearchBar = ({
 				variant='outlined'
 				onChange={handleSearch}
 				size='small'
+				hiddenLabel
 				InputProps={{
 					startAdornment: (
 						<InputAdornment position='start'>
 							<SearchIcon />
 						</InputAdornment>
 					),
+				}}
+				onFocus={() => setShrink(true)}
+				onBlur={e => setShrink(!!e.target.value)}
+				InputLabelProps={{ shrink }}
+				sx={{
+					'& .MuiInputLabel-root': {
+						paddingX: 3.5,
+					},
+					'& .MuiOutlinedInput-notchedOutline': {
+						px: 3.5,
+					},
 				}}
 			/>
 		</Box>

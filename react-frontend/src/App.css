@@ -16,6 +16,11 @@
 	margin: 1rem 5%;
 }
 
+.css-yjsfm1 span {
+	background-color: red;
+	padding-left: 2rem !important;
+}
+
 .main_container {
 	width: 90%;
 	margin: auto;
