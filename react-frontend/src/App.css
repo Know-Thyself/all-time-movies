@@ -16,11 +16,6 @@
 	margin: 1rem 5%;
 }
 
-.css-yjsfm1 span {
-	background-color: red;
-	padding-left: 2rem !important;
-}
-
 .main_container {
 	width: 90%;
 	margin: auto;
@@ -31,6 +26,11 @@
 	width: 100%;
 	background-color: white;
 	border-bottom: solid 1px #E5E4E2;
+	min-height: fit-content;
+}
+
+.expanding {
+	height: fit-content;
 }
 
 .image_wrapper {
@@ -45,6 +45,11 @@
 
 .summary {
 	padding: 0 8px 12px 8px;
+}
+
+.react-read-more-read-less {
+	color: #C3073F;
+	font-weight: 600;
 }
 
 .title {
@@ -76,6 +81,7 @@
 .movie_wrapper figure img {
 	width: 100%;
 	height: auto;
+	object-fit: cover;
 }
 
 @media only screen and (min-width: 668px) {
@@ -106,8 +112,13 @@
 	}
 }
 
-@media only screen and (min-width: 998px) {
+@media only screen and (min-width: 1348px) {
 	.main_container {
+		width: 95%;
 		grid-template-columns: repeat(3, 1fr);
+	}
+
+	.filters {
+		width: 95%;
 	}
 }
