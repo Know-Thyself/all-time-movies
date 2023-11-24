@@ -3,6 +3,7 @@ import './App.css'
 import Movies from './components/movies'
 import MultipleSelectCheckmarksFilter from './components/filter'
 import SearchBar from './components/search'
+import MultiItemsCarousel from './components/carousel/carousel'
 
 function App() {
 	const [movies, setMovies] = useState([])
@@ -22,6 +23,7 @@ function App() {
 	return (
 		<div className='App'>
 			<h1 className='heading'>The 100 Best Movies of All Time</h1>
+			<MultiItemsCarousel movies={backUpData} />
 			<div className='filters'>
 				<SearchBar
 					movies={movies}
