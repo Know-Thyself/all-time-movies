@@ -1,7 +1,8 @@
-import React from "react";
+import { useLocation } from 'react-router-dom'
 
 const MovieDetail = () => {
-  return <div>MovieDetail</div>;
-};
+	const { state } = useLocation()
+	return <div>{state.movie.title}</div>
+}
 
-export default MovieDetail;
+export default MovieDetail

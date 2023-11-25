@@ -10,7 +10,7 @@ function App() {
 				<h1 className='heading'>The 100 Best Movies of All Time</h1>
 				<Routes>
 					<Route path='/' element={<Home />} />
-					<Route path='/detail' element={<MovieDetail/>} />
+					<Route path='/:title' element={<MovieDetail />} />
 				</Routes>
 			</BrowserRouter>
 		</div>

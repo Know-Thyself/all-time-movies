@@ -44,7 +44,12 @@ const MultiItemsCarousel = ({ movies }) => {
 			>
 				{movies.map(movie => {
 					return (
-						<Link to={'/detail'} className={'slider'} key={movie.id}>
+						<Link
+							to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
+							state={{ movie }}
+							className={'slider'}
+							key={movie.id}
+						>
 							<h4 className='carousel-img-title'>
 								{movie.rank}. {movie.title} ({movie.year})
 							</h4>
