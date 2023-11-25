@@ -1,45 +1,18 @@
-import { useEffect, useState } from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import Home from './pages/home'
 import './App.css'
-import Movies from './components/movies'
-import MultipleSelectCheckmarksFilter from './components/filter'
-import SearchBar from './components/search'
-import MultiItemsCarousel from './components/carousel/carousel'
+import MovieDetail from './pages/detail'
 
 function App() {
-	const [movies, setMovies] = useState([])
-	const [backUpData, setBackUpData] = useState([])
-	const [isSearching, setIsSearching] = useState(false)
-
-	useEffect(() => {
-		fetch('/movies')
-			.then(res => res.json())
-			.then(data => {
-				setMovies(data)
-				setBackUpData(data)
-			})
-			.catch(err => console.log(err))
-	}, [])
-
 	return (
 		<div className='App'>
-			<h1 className='heading'>The 100 Best Movies of All Time</h1>
-			<MultiItemsCarousel movies={backUpData} />
-			<div className='filters'>
-				<SearchBar
-					movies={movies}
-					setMovies={setMovies}
-					backUpData={backUpData}
-					isSearching={isSearching}
-					setIsSearching={setIsSearching}
-				/>
-				<MultipleSelectCheckmarksFilter
-					movies={movies}
-					setMovies={setMovies}
-					backUpData={backUpData}
-					isSearching={isSearching}
-				/>
-			</div>
-			<Movies movies={movies} />
+			<BrowserRouter>
+				<h1 className='heading'>The 100 Best Movies of All Time</h1>
+				<Routes>
+					<Route path='/' element={<Home />} />
+					<Route path='/detail' element={<MovieDetail/>} />
+				</Routes>
+			</BrowserRouter>
 		</div>
 	)
 }

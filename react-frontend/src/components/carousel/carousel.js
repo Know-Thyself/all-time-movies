@@ -1,5 +1,6 @@
 import Carousel from 'react-multi-carousel'
 import 'react-multi-carousel/lib/styles.css'
+import { Link } from 'react-router-dom'
 import './carousel.css'
 
 const MultiItemsCarousel = ({ movies }) => {
@@ -35,24 +36,26 @@ const MultiItemsCarousel = ({ movies }) => {
 				draggable={true}
 				showDots={true}
 				infinite={true}
+				shouldResetAutoplay
 				partialVisible={false}
 				dotListClass={'custom-dot-list-style'}
 				containerClass={'carousel-container'}
+				itemClass={'carousel-item'}
 			>
-				{movies.map((movie, index) => {
+				{movies.map(movie => {
 					return (
-						<div className={'slider'} key={index}>
+						<Link to={'/detail'} className={'slider'} key={movie.id}>
 							<h4 className='carousel-img-title'>
 								{movie.rank}. {movie.title} ({movie.year})
 							</h4>
 							<img
-								key={index}
+								key={movie.id}
 								src={movie.image}
 								alt={movie.title}
 								title={movie.title}
 								className='carousel-img'
 							/>
-						</div>
+						</Link>
 					)
 				})}
 			</Carousel>
