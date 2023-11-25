@@ -7,8 +7,8 @@ const MultiItemsCarousel = ({ movies }) => {
 	const responsive = {
 		desktop: {
 			breakpoint: { max: 3000, min: 1348 },
-			items: 4,
-			slidesToSlide: 3,
+			items: 5,
+			slidesToSlide: 4,
 		},
 		laptop: {
 			breakpoint: { max: 1323, min: 1068 },
@@ -50,9 +50,9 @@ const MultiItemsCarousel = ({ movies }) => {
 							className={'slider'}
 							key={movie.id}
 						>
-							<h4 className='carousel-img-title'>
+							<p className='carousel-img-title'>
 								{movie.rank}. {movie.title} ({movie.year})
-							</h4>
+							</p>
 							<img
 								key={movie.id}
 								src={movie.image}

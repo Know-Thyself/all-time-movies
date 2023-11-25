@@ -21,17 +21,17 @@
 .carousel-img-title {
 	position: absolute;
 	margin-top: 0;
-	bottom: -1.25rem;
+	bottom: -0.75rem;
 	left: 0;
 	color: white;
 	text-align: center;
-	font-weight: 500;
+	font-weight: 300;
 	width: 100%;
 	padding: 8px;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
-	font-size: 1.1rem;
+	/* font-size: 1.1rem; */
 }
 
 .react-multi-carousel-list {
@@ -97,6 +97,6 @@
     }
 
     .carousel-img-title {
-        bottom: -1.5rem;
+        bottom: -1rem;
     }
 }
