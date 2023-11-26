@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import ReactReadMoreReadLess from 'react-read-more-read-less'
+import { Link } from 'react-router-dom';
 
 const Movies = ({ movies }) => {
 	const [isExpanding, setIsExpanding] = useState(false)
@@ -11,7 +12,12 @@ const Movies = ({ movies }) => {
 					className={`movie_wrapper ${isExpanding ? 'expanding' : ''}`}
 					key={movie.id}
 				>
-					<div className='image_wrapper' key={movie.id}>
+					<Link
+						to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
+						state={{ movie }}
+						className='image_wrapper'
+						key={movie.id}
+					>
 						<h2 className='title'>
 							{movie.rank}. {movie.title} ({movie.year})
 						</h2>
@@ -22,13 +28,17 @@ const Movies = ({ movies }) => {
 								title={movie.title}
 							/>
 							<figcaption>
-								<span className='genre'>{movie.genre}</span>
+								<span className='genre'>
+									<strong className='strong'>Genre: </strong>
+									{movie.genre}
+								</span>
 							</figcaption>
 						</figure>
-					</div>
+					</Link>
 					<div className='summary' onClick={() => setIsExpanding(!isExpanding)}>
+						<strong className='strong'>Summary: </strong>
 						<ReactReadMoreReadLess
-							charLimit={180}
+							charLimit={140}
 							readMoreText={'Read more ▼'}
 							readLessText={'Read less ▲'}
 						>

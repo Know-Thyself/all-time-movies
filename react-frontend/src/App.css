@@ -59,17 +59,31 @@
 	position: relative;
 	padding: 0;
 	margin: 0;
+	text-emphasis: none;
+	text-decoration: none;
 }
 
 .genre {
 	margin-left: 8px;
+	color: #c3073f;
+	font-size: 1.1rem;
+}
+
+.strong {
+	font-weight: 700;
+	color:  #2A3439;
+	color: #3B444B;
+	font-size: 1.1rem;
 }
 
 .summary {
 	padding: 0 8px 12px 8px;
+	font-weight: 500;
+	color: #3B444B;
 }
 
 .react-read-more-read-less {
+	color:  #2A3439;
 	color: #c3073f;
 	font-weight: 600;
 }
