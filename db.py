@@ -7,6 +7,7 @@ cur = con.cursor()
 # cur.execute("DROP TABLE IF EXISTS movies")
 cur.execute(
     """CREATE TABLE IF NOT EXISTS movies(
+    id INT,
     title TEXT,
     year INT,
     image TEXT,
@@ -19,10 +20,10 @@ cur.execute(
 con.commit()
 
 
-def add_record(title, year, image, rank, genre, summary):
+def add_record(id, title, year, image, rank, genre, summary):
     cur.execute(
-        "INSERT INTO movies VALUES(?, ?, ?, ?, ?, ?)",
-        (title, year, image, rank, genre, summary),
+        "INSERT INTO movies VALUES(?, ?, ?, ?, ?, ?, ?)",
+        (id, title, year, image, rank, genre, summary),
     )
     con.commit()
 

@@ -1,10 +1,22 @@
 import { useLocation } from 'react-router-dom'
 import ReactReadMoreReadLess from 'react-read-more-read-less'
+import { useEffect, useState } from 'react'
 
 const MovieDetail = ({ setIsHome }) => {
-    setIsHome(false)
+	setIsHome(false)
 	const { state } = useLocation()
 	const movie = state.movie
+	const id = state.id
+	const [movieDetail, setMovieDetail] = useState({})
+	useEffect(() => {
+		fetch(`/detail/${id}`)
+			.then(res => res.json())
+			.then(data => setMovieDetail(data))
+			.catch(err => console.log(err))
+	}, [id])
+
+	console.log(movieDetail)
+
 	return (
 		<div>
 			<h1 className='detail-title'>
@@ -36,6 +48,12 @@ const MovieDetail = ({ setIsHome }) => {
 						{movie.summary}
 					</ReactReadMoreReadLess>
 				</div>
+				{movieDetail.timeout_says && (
+					<di>
+						<h3>Timeout Says</h3>
+						<p>{movieDetail.timeout_says}</p>
+					</di>
+				)}
 			</div>
 		</div>
 	)

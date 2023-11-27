@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 
 const Movies = ({ movies }) => {
 	const [isExpanding, setIsExpanding] = useState(false)
-	console.log(isExpanding);
+
 	return (
 		<div className='main_container' key='movies'>
 			{movies.map(movie => (
@@ -14,7 +14,7 @@ const Movies = ({ movies }) => {
 				>
 					<Link
 						to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
-						state={{ movie }}
+						state={{ movie: movie, id: movie.id }}
 						className='image_wrapper'
 						key={movie.id}
 					>

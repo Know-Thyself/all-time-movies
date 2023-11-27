@@ -24,17 +24,18 @@ def scrap_web():
         print(title, i)
         year = "".join(temp_list[-1][1:-1])
         rank = int(temp_list[0].replace(".", ""))
+        id = rank
         image = f"images/image_{rank}.jpg"
         if genres[i].text[4:]:
             genre = genres[i].text[4:]
         else:
             genre = "Hybrid Genre"
         summary = summaries[i].text
-        movie = Movie(i + 1, title, year, image, rank, genre, summary)
+        movie = Movie(id, title, year, image, rank, genre, summary)
         if year.isdigit():
             year = int(year)
         # Inserting record to database
-        add_record(title, year, image, rank, genre, summary)
+        add_record(id, title, year, image, rank, genre, summary)
         movies_lst.append(vars(movie))
         # Downloading the actual binary image files
         binary_image = requests.get(images[i]).content
