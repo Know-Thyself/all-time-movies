@@ -59,26 +59,28 @@ const MovieDetail = ({ setIsHome }) => {
 						<div className='more-detail'>
 							<h3>Release Detail</h3>
 							<table className='release-info'>
-								<tr>
-									<th>Rated:</th>
-									<td>{movieDetail.Rated ? movieDetail.Rated : '-'}</td>
-								</tr>
+								{movieDetail.Rated && (
+									<tr>
+										<th>Rated:</th>
+										<td>{movieDetail.Rated}</td>
+									</tr>
+								)}
 							</table>
 							<table className='release-info'>
-								<tr>
-									<th>Release Date:</th>
-									<td>
-										{movieDetail['Release date']
-											? movieDetail['Release date']
-											: '-'}
-									</td>
-								</tr>
+								{movieDetail['Release date'] && (
+									<tr>
+										<th>Release Date:</th>
+										<td>{movieDetail['Release date']}</td>
+									</tr>
+								)}
 							</table>
 							<table className='release-info'>
-								<tr>
-									<th>Duration:</th>
-									<td>{movieDetail.Duration ? movieDetail.Duration : '-'}</td>
-								</tr>
+								{movieDetail.Duration && (
+									<tr>
+										<th>Duration:</th>
+										<td>{movieDetail.Duration}</td>
+									</tr>
+								)}
 							</table>
 							<h3>{movieDetail.section_title}</h3>
 							<table className='release-info'>
