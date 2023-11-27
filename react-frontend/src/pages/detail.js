@@ -37,6 +37,51 @@ const MovieDetail = ({ setIsHome }) => {
 							</span>
 						</figcaption>
 					</figure>
+					{movieDetail.timeout_says && (
+						<div className='more-detail'>
+							<h3>Release Detail</h3>
+							<table className='release-info'>
+								<tr>
+									<th>Rated:</th> <td>{movieDetail.Rated}</td>
+								</tr>
+							</table>
+							<table className='release-info'>
+								<tr>
+									<th>Release Date:</th>
+									<td>{movieDetail['Release date']}</td>
+								</tr>
+							</table>
+							<table className='release-info'>
+								<tr>
+									<th>Duration:</th>
+									<td>{movieDetail.Duration}</td>
+								</tr>
+							</table>
+							<h3>{movieDetail.section_title}</h3>
+							<table className='release-info'>
+								<tr>
+									<th>Director:</th>
+									<td>{movieDetail.Director}</td>
+								</tr>
+							</table>
+							<table className='release-info'>
+								<tr>
+									<th>Screenwriter:</th>
+									<td>{movieDetail.Screenwriter}</td>
+								</tr>
+							</table>
+							<table className='release-info'>
+								<tr className='cast'>
+									<th>Cast:</th>
+									<div className='cast'>
+										{movieDetail.Cast.map(cast => (
+											<td>{cast}</td>
+										))}
+									</div>
+								</tr>
+							</table>
+						</div>
+					)}
 				</div>
 				<div className='detail-summary'>
 					<strong>Summary: </strong>
@@ -47,13 +92,15 @@ const MovieDetail = ({ setIsHome }) => {
 					>
 						{movie.summary}
 					</ReactReadMoreReadLess>
+					{movieDetail.timeout_says && (
+						<di>
+							<h3>Timeout Says</h3>
+							<p>{movieDetail.timeout_says}</p>
+							<p>{movieDetail.author}</p>
+							<p>{movieDetail.time}</p>
+						</di>
+					)}
 				</div>
-				{movieDetail.timeout_says && (
-					<di>
-						<h3>Timeout Says</h3>
-						<p>{movieDetail.timeout_says}</p>
-					</di>
-				)}
 			</div>
 		</div>
 	)

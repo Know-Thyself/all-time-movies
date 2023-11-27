@@ -164,6 +164,36 @@
 	display: none;
 }
 
+/* .more-detail {
+	width: 100%;
+} */
+
+.release-info {
+	display: table;
+	/* border-collapse: collapse; */
+	table-layout: fixed;
+	align-items: flex-start;
+	/* table-layout: fixed; */
+	width: 100%;
+}
+th {
+	font-size: 1rem;
+	font-weight: 500;
+}
+
+td, th {
+  /* border: 1px solid #dddddd; */
+  text-align: left;
+  padding: 8px 0;
+}
+
+.cast {
+	display: flex;
+	/* justify-content: flex-start;
+	align-items: flex-start; */
+	flex-direction: column;
+}
+
 @media only screen and (min-width: 1068px) {
 	.movie-detail {
 		display: grid;
