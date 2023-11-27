@@ -1,5 +1,4 @@
 import { useLocation, Link } from 'react-router-dom'
-import ReactReadMoreReadLess from 'react-read-more-read-less'
 import { useEffect, useState } from 'react'
 
 const MovieDetail = ({ setIsHome }) => {
@@ -39,7 +38,7 @@ const MovieDetail = ({ setIsHome }) => {
 						/>
 						<figcaption>
 							<span className='detail-genre'>
-								<h3>{movie.genre}</h3>
+								<h3>Genre: {movie.genre}</h3>
 							</span>
 						</figcaption>
 					</figure>
@@ -50,8 +49,9 @@ const MovieDetail = ({ setIsHome }) => {
 							<di>
 								<h3>Timeout Says</h3>
 								<p>{movieDetail.timeout_says}</p>
-								<p>{movieDetail.author}</p>
-								<p>{movieDetail.time}</p>
+								<p>
+									{movieDetail.author}, {movieDetail.time}
+								</p>
 							</di>
 						)}
 					</div>
@@ -91,7 +91,7 @@ const MovieDetail = ({ setIsHome }) => {
 							<table className='release-info'>
 								{movieDetail.Cast.map((cast, index) => (
 									<tr>
-										<th className={index === 0 ? 'cast': 'mute'}>Cast:</th>
+										<th className={index === 0 ? 'cast' : 'mute'}>Cast:</th>
 										<td>{cast}</td>
 									</tr>
 								))}
