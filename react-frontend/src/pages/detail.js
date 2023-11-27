@@ -1,13 +1,19 @@
-import { useLocation } from 'react-router-dom'
+import { useLocation, Link } from 'react-router-dom'
 import ReactReadMoreReadLess from 'react-read-more-read-less'
 import { useEffect, useState } from 'react'
 
 const MovieDetail = ({ setIsHome }) => {
 	setIsHome(false)
 	const { state } = useLocation()
+	const movies = state.movies
 	const movie = state.movie
 	const id = state.id
 	const [movieDetail, setMovieDetail] = useState({})
+	const similarMovies = movies.filter(
+		m => m.genre === movie.genre && m !== movie
+	)
+	console.log(similarMovies)
+
 	useEffect(() => {
 		fetch(`/detail/${id}`)
 			.then(res => res.json())
@@ -33,10 +39,22 @@ const MovieDetail = ({ setIsHome }) => {
 						/>
 						<figcaption>
 							<span className='detail-genre'>
-								<strong>Genre:</strong> {movie.genre}
+								<h3>{movie.genre}</h3>
 							</span>
 						</figcaption>
 					</figure>
+					<div className='detail-summary'>
+						<h3>Summary </h3>
+						<p>{movie.summary}</p>
+						{movieDetail.timeout_says && (
+							<di>
+								<h3>Timeout Says</h3>
+								<p>{movieDetail.timeout_says}</p>
+								<p>{movieDetail.author}</p>
+								<p>{movieDetail.time}</p>
+							</di>
+						)}
+					</div>
 					{movieDetail.timeout_says && (
 						<div className='more-detail'>
 							<h3>Release Detail</h3>
@@ -71,36 +89,35 @@ const MovieDetail = ({ setIsHome }) => {
 								</tr>
 							</table>
 							<table className='release-info'>
-								<tr className='cast'>
-									<th>Cast:</th>
-									<div className='cast'>
-										{movieDetail.Cast.map(cast => (
-											<td>{cast}</td>
-										))}
-									</div>
-								</tr>
+								{movieDetail.Cast.map((cast, index) => (
+									<tr>
+										<th className={index === 0 ? 'cast': 'mute'}>Cast:</th>
+										<td>{cast}</td>
+									</tr>
+								))}
 							</table>
 						</div>
 					)}
 				</div>
-				<div className='detail-summary'>
-					<strong>Summary: </strong>
-					<ReactReadMoreReadLess
-						charLimit={320}
-						readMoreText={'Read more ▼'}
-						readLessText={'Read less ▲'}
-					>
-						{movie.summary}
-					</ReactReadMoreReadLess>
-					{movieDetail.timeout_says && (
-						<di>
-							<h3>Timeout Says</h3>
-							<p>{movieDetail.timeout_says}</p>
-							<p>{movieDetail.author}</p>
-							<p>{movieDetail.time}</p>
-						</di>
-					)}
-				</div>
+				<section className='similar-section'>
+					<h2>Similar Genres</h2>
+					{similarMovies.map(movie => (
+						<Link
+							to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
+							state={{ movies: movies, movie: movie, id: movie.id }}
+							className='similar-wrapper'
+						>
+							<div className='similar-img-container'>
+								<img
+									src={movie.image}
+									alt={movie.title}
+									className='similar-img'
+								/>
+							</div>
+							<h3>{movie.title}</h3>
+						</Link>
+					))}
+				</section>
 			</div>
 		</div>
 	)

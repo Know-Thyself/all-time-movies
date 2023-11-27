@@ -46,7 +46,7 @@ const MultiItemsCarousel = ({ movies }) => {
 					return (
 						<Link
 							to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
-							state={{ movie }}
+							state={{ movies: movies, movie: movie, id: movie.id }}
 							className={'slider'}
 							key={movie.id}
 						>

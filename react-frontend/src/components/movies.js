@@ -14,7 +14,7 @@ const Movies = ({ movies }) => {
 				>
 					<Link
 						to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
-						state={{ movie: movie, id: movie.id }}
+						state={{ movies: movies, movie: movie, id: movie.id }}
 						className='image_wrapper'
 						key={movie.id}
 					>
