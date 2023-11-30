@@ -38,7 +38,9 @@ const MovieDetail = ({ setIsHome }) => {
 						/>
 						<figcaption>
 							<span className='detail-genre'>
-								<h3>Genre: {movie.genre}</h3>
+								<h3>
+									Genre: <span>{movie.genre}</span>
+								</h3>
 							</span>
 						</figcaption>
 					</figure>
@@ -107,7 +109,9 @@ const MovieDetail = ({ setIsHome }) => {
 					)}
 				</div>
 				<section className='similar-section'>
-					<h2>Similar Genres</h2>
+					<h2>
+						Other Great <span>{movie.genre}</span> Movies
+					</h2>
 					{similarMovies.map(movie => (
 						<Link
 							to={`/${movie.title.split(' ').join('-').toLowerCase()}`}
