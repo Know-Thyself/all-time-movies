@@ -4,6 +4,7 @@ import {
 	Route,
 	Link,
 } from 'react-router-dom'
+import ArrowBackIcon from '@mui/icons-material/ArrowBack'
 import Home from './pages/home'
 import './App.css'
 import MovieDetail from './pages/detail'
@@ -22,7 +23,7 @@ function App() {
 							to={'/'}
 							onClick={() => setIsHome(true)}
 						>
-							Back
+							<ArrowBackIcon/> Back
 						</Link>
 					</div>
 				</div>

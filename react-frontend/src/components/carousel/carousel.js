@@ -50,16 +50,18 @@ const MultiItemsCarousel = ({ movies }) => {
 							className={'slider'}
 							key={movie.id}
 						>
-							<p className='carousel-img-title'>
-								{movie.rank}. {movie.title} ({movie.year})
-							</p>
-							<img
-								key={movie.id}
-								src={movie.image}
-								alt={movie.title}
-								title={movie.title}
-								className='carousel-img'
-							/>
+							<div className='carousel-item-container'>
+								<p className='carousel-img-title'>
+									{movie.rank}. {movie.title} ({movie.year})
+								</p>
+								<img
+									key={movie.id}
+									src={movie.image}
+									alt={movie.title}
+									title={movie.title}
+									className='carousel-img'
+								/>
+							</div>
 						</Link>
 					)
 				})}

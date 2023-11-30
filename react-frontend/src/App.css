@@ -155,10 +155,14 @@
 .back-link {
 	text-decoration: none;
 	background-color: #c3073f;
+	background-color: #2A3439;
+	background-color: #343434;
 	padding: 0.5rem 1rem;
 	border-radius: 4px;
 	color: white;
 	cursor: pointer;
+	display: flex;
+	gap: 0.25rem;
 }
 
 .d-none {
@@ -191,10 +195,6 @@ td, th {
   padding: 8px 0;
 }
 
-.cast {
-	color: #2A3439;
-}
-
 .mute {
 	color: #f5f5f5;
 	opacity: 0;
@@ -209,6 +209,7 @@ td, th {
 .similar-section h2 {
 	margin-top: 0;
 }
+
 .similar-wrapper {
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
@@ -231,7 +232,7 @@ td, th {
 	color: #3B444B;
 }
 
-.similar-wrapper h3 {
+.similar-wrapper h4 {
 	color: #2A3439;
 }
 

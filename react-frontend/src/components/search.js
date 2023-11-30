@@ -47,7 +47,7 @@ const SearchBar = ({
 		>
 			<TextField
 				id='search'
-				label='Search for movies'
+				label='Search'
 				variant='outlined'
 				onChange={handleSearch}
 				size='small'

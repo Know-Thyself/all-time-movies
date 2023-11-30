@@ -121,7 +121,7 @@ const MovieDetail = ({ setIsHome }) => {
 									className='similar-img'
 								/>
 							</div>
-							<h3>{movie.title}</h3>
+							<h4>{movie.title}</h4>
 						</Link>
 					))}
 				</section>
